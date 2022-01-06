@@ -1,6 +1,43 @@
 .statblock-13a {
-	background-color: white;
 	border: 1px solid gray;
-	border-radius: 10px;
+	border-radius: 5px;
 	padding: 10px;
+}
+
+.statblock-13a div {
+	margin-bottom: 20px;
+}
+
+.statblock-13a h1,
+.statblock-13a h2,
+.statblock-13a h3,
+.statblock-13a h4 {
+	font-family: cursive;
+}
+
+/* Easy styling for spans */
+.statblock-13a .bold {
+	font-weight: bold;
+}
+.statblock-13a .em {
+	font-style: italic;
+}
+.statblock-13a .sc {
+	font-variant: small-caps;
+}
+
+.statblock-13a .attack div {
+	margin: 0 1em;
+}
+
+/* Numbers layout */
+.statblock-13a .numbers {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.statblock-13a .numbers div {
+	margin: 0 1em;
+	flex-grow: 1;
 }

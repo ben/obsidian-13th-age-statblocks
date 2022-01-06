@@ -1,16 +1,12 @@
 import {
 	App,
-	Editor,
 	MarkdownPostProcessorContext,
-	MarkdownRenderChild,
-	MarkdownView,
-	Modal,
-	Notice,
 	parseYaml,
 	Plugin,
 	PluginSettingTab,
 	Setting,
 } from "obsidian";
+import { StatblockRenderer } from "statblockrenderer";
 
 // Remember to rename these classes and interfaces!
 
@@ -59,21 +55,6 @@ export default class MyPlugin extends Plugin {
 
 	async saveSettings() {
 		await this.saveData(this.settings);
-	}
-}
-
-class StatblockRenderer extends MarkdownRenderChild {
-	statblockEl: HTMLDivElement;
-
-	constructor(containerEl: HTMLElement, private params: any) {
-		super(containerEl);
-
-		this.statblockEl = this.containerEl.createDiv({
-			cls: "statblock-13a",
-		});
-
-		const heading = this.statblockEl.createDiv({ cls: "heading" });
-		heading.createSpan({ text: params.name });
 	}
 }
 
