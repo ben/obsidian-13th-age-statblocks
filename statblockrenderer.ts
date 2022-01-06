@@ -8,7 +8,7 @@ export class StatblockRenderer extends MarkdownRenderChild {
 
 		this.statblockEl = this.containerEl.createDiv({ cls: "statblock-13a" });
 
-		this.statblockEl.createEl("h2", { cls: "sc", text: params.name });
+		this.statblockEl.createEl("h1", { cls: "sc", text: params.name });
 
 		if (params.blurb) {
 			this.statblockEl.createDiv({ cls: "em", text: params.blurb });
@@ -32,7 +32,7 @@ export class StatblockRenderer extends MarkdownRenderChild {
 		}
 
 		if (params.specials) {
-			this.statblockEl.createEl("h4", { text: "Nastier Specials" });
+			this.statblockEl.createEl("h2", { text: "Nastier Specials" });
 			for (const special of params.specials) {
 				this.renderSimpleItem(special)
 			}
@@ -66,14 +66,14 @@ export class StatblockRenderer extends MarkdownRenderChild {
 				this.params.strength && `${this.params.strength}-strength`,
 				`${nth} level`,
 				this.params.role,
-			].join(" ")
+			].join(" ").trim()
 		);
 	}
 
 	renderAttack(attack: any) {
 		const attackEl = this.statblockEl.createDiv({ cls: "attack" });
-		if (attack.type === "special") {
-			attackEl.createSpan({ cls: "em", text: "[Special trigger] " });
+		if (attack.tag) {
+			attackEl.createSpan({ cls: "em", text: `[${attack.tag}] ` });
 		}
 		const titleParts = [
 			attack.type === "ranged" ? "R:" : "",
@@ -82,7 +82,7 @@ export class StatblockRenderer extends MarkdownRenderChild {
 			attack.attack,
 			attack.detail ? `(${attack.detail})` : "",
 		];
-		attackEl.createSpan({ cls: "bold dedent", text: titleParts.join(" ") });
+		attackEl.createSpan({ cls: "bold", text: titleParts.join(" ").trim() });
 		attackEl.createSpan({ text: ` — ${attack.hit}` });
 
 		for (const extra of attack.extras ?? []) {
