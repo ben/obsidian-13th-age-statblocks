@@ -9,7 +9,6 @@ import {
 import { StatblockRenderer } from "statblockrenderer";
 
 const srdData = require('monsters.json')
-console.log(srdData)
 
 interface ArchmageSettings {
 
