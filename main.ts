@@ -8,18 +8,21 @@ import {
 } from "obsidian";
 import { StatblockRenderer } from "statblockrenderer";
 
-// Remember to rename these classes and interfaces!
+const srdData = require('monsters.json')
+console.log(srdData)
 
-interface MyPluginSettings {
+interface ArchmageSettings {
+
+
 	mySetting: string;
 }
 
-const DEFAULT_SETTINGS: MyPluginSettings = {
+const DEFAULT_SETTINGS: ArchmageSettings = {
 	mySetting: "default",
 };
 
-export default class MyPlugin extends Plugin {
-	settings: MyPluginSettings;
+export default class ArchmagePlugin extends Plugin {
+	settings: ArchmageSettings;
 
 	async onload() {
 		await this.loadSettings();
@@ -39,8 +42,16 @@ export default class MyPlugin extends Plugin {
 		ctx: MarkdownPostProcessorContext
 	): Promise<any> {
 		const yaml = parseYaml(source);
-		console.log(yaml);
-		ctx.addChild(new StatblockRenderer(el, yaml));
+		let renderData = {...yaml}
+
+		if (yaml.monster) {
+			const lookupMonster = srdData.find(x => x.name === yaml.monster)
+			if (lookupMonster) {
+				renderData = {...lookupMonster, ...yaml}
+			}
+		}
+
+		ctx.addChild(new StatblockRenderer(el, renderData));
 	}
 
 	onunload() {}
@@ -59,9 +70,9 @@ export default class MyPlugin extends Plugin {
 }
 
 class SampleSettingTab extends PluginSettingTab {
-	plugin: MyPlugin;
+	plugin: ArchmagePlugin;
 
-	constructor(app: App, plugin: MyPlugin) {
+	constructor(app: App, plugin: ArchmagePlugin) {
 		super(app, plugin);
 		this.plugin = plugin;
 	}

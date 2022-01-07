@@ -7,6 +7,7 @@
     "pd": 15,
     "md": 10,
     "hp": 6,
+    "initiative": 3,
     "attacks": [
       {
         "name": "Infected bite",
@@ -31,6 +32,7 @@
     "pd": 13,
     "md": 9,
     "hp": 20,
+    "initiative": 0,
     "attacks": [
       {
         "name": "Mandibles",
@@ -60,6 +62,7 @@
     "pd": 15,
     "md": 10,
     "hp": 22,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Pincer",
@@ -85,6 +88,7 @@
     "pd": 14,
     "md": 11,
     "hp": 34,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Bite",
@@ -119,6 +123,7 @@
     "pd": 16,
     "md": 12,
     "hp": 68,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Bite",
@@ -159,6 +164,7 @@
     "pd": 15,
     "md": 11,
     "hp": 28,
+    "initiative": 5,
     "attacks": [
       {
         "name": "Bite",
@@ -183,6 +189,7 @@
     "pd": 16,
     "md": 12,
     "hp": 45,
+    "initiative": 6,
     "attacks": [
       {
         "name": "Bite",
@@ -208,6 +215,7 @@
     "pd": 17,
     "md": 13,
     "hp": 80,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Vicious bite",
@@ -241,6 +249,7 @@
     "pd": 19,
     "md": 14,
     "hp": 130,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Bite",
@@ -275,6 +284,7 @@
     "pd": 16,
     "md": 12,
     "hp": 180,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Battle-hardened tusks",
@@ -325,6 +335,7 @@
     "pd": 19,
     "md": 15,
     "hp": 160,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Crushing jaws and shredding claws",
@@ -365,6 +376,7 @@
     "pd": 21,
     "md": 17,
     "hp": 320,
+    "initiative": 22,
     "attacks": [
       {
         "name": "Jagged claws",
@@ -409,6 +421,7 @@
     "pd": 17,
     "md": 11,
     "hp": 60,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Mandibles",
@@ -444,6 +457,7 @@
     "pd": 17,
     "md": 14,
     "hp": 50,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Red-hot hammer",
@@ -492,6 +506,7 @@
     "pd": 18,
     "md": 12,
     "hp": 46,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Blazing-hot iron fists",
@@ -532,6 +547,7 @@
     "pd": 19,
     "md": 18,
     "hp": 85,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Multi-legged attack",
@@ -614,6 +630,7 @@
     "pd": 16,
     "md": 11,
     "hp": 30,
+    "initiative": 6,
     "attacks": [
       {
         "name": "C: Swarming bites",
@@ -647,6 +664,7 @@
     "pd": 16,
     "md": 11,
     "hp": 10,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Burning claws",
@@ -690,6 +708,7 @@
     "pd": 16,
     "md": 16,
     "hp": 44,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Bloody fangs",
@@ -742,6 +761,7 @@
     "pd": 18,
     "md": 15,
     "hp": 70,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Fangs",
@@ -790,6 +810,7 @@
     "pd": 23,
     "md": 20,
     "hp": 36,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Ghostly fangs",
@@ -821,6 +842,7 @@
     "pd": 19,
     "md": 14,
     "hp": 170,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Gigantic claws",
@@ -866,6 +888,7 @@
     "pd": 17,
     "md": 13,
     "hp": 92,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Charging maw",
@@ -908,6 +931,7 @@
     "pd": 15,
     "md": 11,
     "hp": 135,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Tongue lash and bite",
@@ -951,6 +975,7 @@
     "pd": 15,
     "md": 11,
     "hp": 46,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Land-shark maw",
@@ -989,6 +1014,7 @@
     "pd": 23,
     "md": 19,
     "hp": 378,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Pulverizing maw",
@@ -1025,6 +1051,7 @@
     "pd": 17,
     "md": 14,
     "hp": 60,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Charging lance",
@@ -1075,6 +1102,7 @@
     "pd": 19,
     "md": 14,
     "hp": 70,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Hoof and weapon",
@@ -1127,6 +1155,7 @@
     "pd": 20,
     "md": 16,
     "hp": 170,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Two-handed sword",
@@ -1178,6 +1207,7 @@
     "pd": 20,
     "md": 16,
     "hp": 85,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Twin scimitars",
@@ -1232,6 +1262,7 @@
     "pd": 16,
     "md": 13,
     "hp": 20,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Oozespasm",
@@ -1256,6 +1287,7 @@
     "pd": 14,
     "md": 17,
     "hp": 48,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Bestial chaos",
@@ -1290,6 +1322,7 @@
     "pd": 17,
     "md": 13,
     "hp": 60,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Brute chaos",
@@ -1324,6 +1357,7 @@
     "pd": 16,
     "md": 16,
     "hp": 90,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Behemoth chaos",
@@ -1364,6 +1398,7 @@
     "pd": 20,
     "md": 17,
     "hp": 320,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Fangs, claws, and horns",
@@ -1515,6 +1550,7 @@
     "pd": 20,
     "md": 16,
     "hp": 320,
+    "initiative": 24,
     "attacks": [
       {
         "name": "Fangs, claws, and horns",
@@ -1561,6 +1597,7 @@
     "pd": 18,
     "md": 18,
     "hp": 126,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Crushing claws",
@@ -1620,6 +1657,7 @@
     "pd": 18,
     "md": 16,
     "hp": 80,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Fly-by tentacle sting",
@@ -1677,6 +1715,7 @@
     "pd": 25,
     "md": 22,
     "hp": 450,
+    "initiative": 25,
     "attacks": [
       {
         "name": "Crushing claws",
@@ -1761,6 +1800,7 @@
     "pd": 18,
     "md": 14,
     "hp": 54,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Misshapen claws",
@@ -1808,6 +1848,7 @@
     "pd": 21,
     "md": 21,
     "hp": 300,
+    "initiative": 22,
     "attacks": [
       {
         "name": "Rippling scales",
@@ -1874,6 +1915,7 @@
     "pd": 15,
     "md": 11,
     "hp": 13,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Claws",
@@ -1898,6 +1940,7 @@
     "pd": 13,
     "md": 16,
     "hp": 40,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Festering claws",
@@ -1936,6 +1979,7 @@
     "pd": 18,
     "md": 14,
     "hp": 13,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Damned dirk",
@@ -1965,6 +2009,7 @@
     "pd": 14,
     "md": 18,
     "hp": 52,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Horns and daggers",
@@ -2001,6 +2046,7 @@
     "pd": 19,
     "md": 15,
     "hp": 70,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Damned sickle",
@@ -2041,6 +2087,7 @@
     "pd": 19,
     "md": 16,
     "hp": 22,
+    "initiative": 20,
     "attacks": [
       {
         "name": "Scrabbling claws",
@@ -2073,6 +2120,7 @@
     "pd": 17,
     "md": 17,
     "hp": 70,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Claw",
@@ -2097,6 +2145,7 @@
     "pd": 19,
     "md": 15,
     "hp": 80,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Damned katar",
@@ -2152,6 +2201,7 @@
     "pd": 16,
     "md": 20,
     "hp": 180,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Supernatural strength",
@@ -2190,6 +2240,7 @@
     "pd": 16,
     "md": 20,
     "hp": 180,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Loathsome vomity smear",
@@ -2268,6 +2319,7 @@
     "pd": 17,
     "md": 17,
     "hp": 88,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Filth-covered claws",
@@ -2305,6 +2357,7 @@
     "pd": 24,
     "md": 20,
     "hp": 206,
+    "initiative": 23,
     "attacks": [
       {
         "name": "R: Soul-suck",
@@ -2342,6 +2395,7 @@
     "pd": 16,
     "md": 20,
     "hp": 210,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Meaty, clawed hands",
@@ -2383,6 +2437,7 @@
     "pd": 21,
     "md": 21,
     "hp": 140,
+    "initiative": 25,
     "attacks": [
       {
         "name": "Damned hellblade",
@@ -2442,6 +2497,7 @@
     "pd": 22,
     "md": 18,
     "hp": 320,
+    "initiative": 24,
     "attacks": [
       {
         "name": "Pincer",
@@ -2495,6 +2551,7 @@
     "pd": 19,
     "md": 23,
     "hp": 170,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Horns and swords",
@@ -2542,6 +2599,7 @@
     "pd": 21,
     "md": 17,
     "hp": 45,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Hooks and barbs",
@@ -2572,6 +2630,7 @@
     "pd": 21,
     "md": 21,
     "hp": 333,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Giant filth-covered claws",
@@ -2615,6 +2674,7 @@
     "pd": 20,
     "md": 24,
     "hp": 400,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Musky claw or slimy hoof",
@@ -2662,6 +2722,7 @@
     "pd": 21,
     "md": 25,
     "hp": 666,
+    "initiative": 32,
     "attacks": [
       {
         "name": "Six whirling swords",
@@ -2693,6 +2754,7 @@
     "pd": 27,
     "md": 23,
     "hp": 850,
+    "initiative": 30,
     "attacks": [
       {
         "name": "Abyssal blade",
@@ -2754,6 +2816,7 @@
     "pd": 16,
     "md": 18,
     "hp": 52,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Shortsword",
@@ -2802,6 +2865,7 @@
     "pd": 15,
     "md": 18,
     "hp": 40,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Staff",
@@ -2851,6 +2915,7 @@
     "pd": 16,
     "md": 16,
     "hp": 28,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Fleshy limb",
@@ -2887,6 +2952,7 @@
     "pd": 15,
     "md": 17,
     "hp": 13,
+    "initiative": 6,
     "attacks": [
       {
         "name": "Heedless claws",
@@ -2932,6 +2998,7 @@
     "pd": 17,
     "md": 18,
     "hp": 35,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Hidden dagger",
@@ -2983,6 +3050,7 @@
     "pd": 20,
     "md": 20,
     "hp": 200,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Wicked halberd",
@@ -3039,6 +3107,7 @@
     "pd": 22,
     "md": 22,
     "hp": 90,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Crushing punch or kick",
@@ -3091,6 +3160,7 @@
     "pd": 22,
     "md": 22,
     "hp": 120,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Stout, sharp dagger",
@@ -3146,6 +3216,7 @@
     "pd": 23,
     "md": 23,
     "hp": 320,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Bone claw",
@@ -3191,6 +3262,7 @@
     "pd": 24,
     "md": 24,
     "hp": 175,
+    "initiative": 26,
     "attacks": [
       {
         "name": "Glistening claws",
@@ -3250,6 +3322,7 @@
     "pd": 24,
     "md": 24,
     "hp": 270,
+    "initiative": 26,
     "attacks": [
       {
         "name": "Wicked glaive",
@@ -3292,6 +3365,7 @@
     "pd": 26,
     "md": 26,
     "hp": 700,
+    "initiative": 27,
     "attacks": [
       {
         "name": "Barbed fork",
@@ -3351,6 +3425,7 @@
     "pd": 27,
     "md": 27,
     "hp": 1600,
+    "initiative": 33,
     "attacks": [
       {
         "name": "Fiendish weapon",
@@ -3420,6 +3495,7 @@
     "pd": 22,
     "md": 22,
     "hp": 360,
+    "initiative": 20,
     "attacks": [
       {
         "name": "Mighty tentacles",
@@ -3483,6 +3559,7 @@
     "pd": 25,
     "md": 25,
     "hp": 230,
+    "initiative": 28,
     "attacks": [
       {
         "name": "Cutting talons",
@@ -3536,6 +3613,7 @@
     "pd": 28,
     "md": 28,
     "hp": 1300,
+    "initiative": 33,
     "attacks": [
       {
         "name": "Mighty tentacles",
@@ -3608,6 +3686,7 @@
     "pd": 25,
     "md": 25,
     "hp": 100,
+    "initiative": 37,
     "attacks": [
       {
         "name": "Tentacles and talons",
@@ -3642,6 +3721,7 @@
     "pd": 12,
     "md": 8,
     "hp": 28,
+    "initiative": 6,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -3687,6 +3767,7 @@
     "pd": 12,
     "md": 16,
     "hp": 31,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Flurry of claws",
@@ -3735,6 +3816,7 @@
     "pd": 15,
     "md": 11,
     "hp": 38,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -3778,6 +3860,7 @@
     "pd": 17,
     "md": 15,
     "hp": 104,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Acid fangs",
@@ -3834,6 +3917,7 @@
     "pd": 18,
     "md": 14,
     "hp": 48,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -3880,6 +3964,7 @@
     "pd": 13,
     "md": 17,
     "hp": 80,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Flurry of claws",
@@ -3928,6 +4013,7 @@
     "pd": 17,
     "md": 15,
     "hp": 42,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -3975,6 +4061,7 @@
     "pd": 17,
     "md": 13,
     "hp": 50,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Crushing bite",
@@ -4015,6 +4102,7 @@
     "pd": 14,
     "md": 18,
     "hp": 145,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Flurry of claws",
@@ -4071,6 +4159,7 @@
     "pd": 14,
     "md": 18,
     "hp": 44,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Needle-sharp claws and teeth",
@@ -4122,6 +4211,7 @@
     "pd": 17,
     "md": 13,
     "hp": 104,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -4164,6 +4254,7 @@
     "pd": 18,
     "md": 14,
     "hp": 60,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Sharp claws",
@@ -4222,6 +4313,7 @@
     "pd": 19,
     "md": 17,
     "hp": 164,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Coiling",
@@ -4282,6 +4374,7 @@
     "pd": 18,
     "md": 14,
     "hp": 200,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -4325,6 +4418,7 @@
     "pd": 20,
     "md": 16,
     "hp": 140,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -4375,6 +4469,7 @@
     "pd": 19,
     "md": 19,
     "hp": 76,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Dragon claw",
@@ -4432,6 +4527,7 @@
     "pd": 19,
     "md": 15,
     "hp": 175,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -4485,6 +4581,7 @@
     "pd": 17,
     "md": 21,
     "hp": 90,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Swift, keen claws",
@@ -4533,6 +4630,7 @@
     "pd": 20,
     "md": 19,
     "hp": 160,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -4581,6 +4679,7 @@
     "pd": 20,
     "md": 16,
     "hp": 200,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Crushing bite",
@@ -4621,6 +4720,7 @@
     "pd": 20,
     "md": 16,
     "hp": 90,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Fangs, claws, and tail",
@@ -4659,6 +4759,7 @@
     "pd": 18,
     "md": 22,
     "hp": 85,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Ferocious bite",
@@ -4711,6 +4812,7 @@
     "pd": 21,
     "md": 16,
     "hp": 230,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Sharp claws",
@@ -4768,6 +4870,7 @@
     "pd": 21,
     "md": 17,
     "hp": 324,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -4813,6 +4916,7 @@
     "pd": 21,
     "md": 19,
     "hp": 290,
+    "initiative": 20,
     "attacks": [
       {
         "name": "Jaws and claws",
@@ -4865,6 +4969,7 @@
     "pd": 22,
     "md": 16,
     "hp": 220,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Fangs, claws, and wings",
@@ -4926,6 +5031,7 @@
     "pd": 22,
     "md": 22,
     "hp": 260,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Double claws",
@@ -4982,6 +5088,7 @@
     "pd": 22,
     "md": 22,
     "hp": 260,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Shadow claws",
@@ -5038,6 +5145,7 @@
     "pd": 20,
     "md": 16,
     "hp": 38,
+    "initiative": 25,
     "attacks": [
       {
         "name": "Shadow strangulation",
@@ -5083,6 +5191,7 @@
     "pd": 23,
     "md": 21,
     "hp": 510,
+    "initiative": 26,
     "attacks": [
       {
         "name": "Gleaming bite",
@@ -5148,6 +5257,7 @@
     "pd": 22,
     "md": 18,
     "hp": 50,
+    "initiative": 24,
     "attacks": [
       {
         "name": "Hoard-fueled strike",
@@ -5173,6 +5283,7 @@
     "pd": 23,
     "md": 21,
     "hp": 510,
+    "initiative": 26,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -5221,6 +5332,7 @@
     "pd": 23,
     "md": 19,
     "hp": 600,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Crushing bite",
@@ -5269,6 +5381,7 @@
     "pd": 19,
     "md": 23,
     "hp": 290,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Needle-sharp claws and teeth",
@@ -5320,6 +5433,7 @@
     "pd": 24,
     "md": 20,
     "hp": 400,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Fangs, claws, and tail",
@@ -5363,6 +5477,7 @@
     "pd": 21,
     "md": 25,
     "hp": 430,
+    "initiative": 24,
     "attacks": [
       {
         "name": "Swift, keen claws",
@@ -5410,6 +5525,7 @@
     "pd": 21,
     "md": 25,
     "hp": 700,
+    "initiative": 27,
     "attacks": [
       {
         "name": "Needle-sharp claws and teeth",
@@ -5464,6 +5580,7 @@
     "pd": 25,
     "md": 20,
     "hp": 900,
+    "initiative": 26,
     "attacks": [
       {
         "name": "Sharp claws",
@@ -5521,6 +5638,7 @@
     "pd": 22,
     "md": 26,
     "hp": 460,
+    "initiative": 26,
     "attacks": [
       {
         "name": "Ferocious bite",
@@ -5572,6 +5690,7 @@
     "pd": 21,
     "md": 27,
     "hp": 1100,
+    "initiative": 27,
     "attacks": [
       {
         "name": "Fangs and claws",
@@ -5635,6 +5754,7 @@
     "pd": 20,
     "md": 24,
     "hp": 80,
+    "initiative": 25,
     "attacks": [
       {
         "name": "Invasive gases",
@@ -5660,6 +5780,7 @@
     "pd": 26,
     "md": 26,
     "hp": 980,
+    "initiative": 29,
     "attacks": [
       {
         "name": "Double claws",
@@ -5716,6 +5837,7 @@
     "pd": 27,
     "md": 23,
     "hp": 1200,
+    "initiative": 32,
     "attacks": [
       {
         "name": "Fangs, claws, and tail",
@@ -5763,6 +5885,7 @@
     "pd": 24,
     "md": 28,
     "hp": 1300,
+    "initiative": 29,
     "attacks": [
       {
         "name": "Swift, keen claws",
@@ -5814,6 +5937,7 @@
     "pd": 25,
     "md": 29,
     "hp": 1400,
+    "initiative": 29,
     "attacks": [
       {
         "name": "Ferocious bite",
@@ -5874,6 +5998,7 @@
     "pd": 15,
     "md": 20,
     "hp": 170,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Sword or mace",
@@ -5922,6 +6047,7 @@
     "pd": 13,
     "md": 17,
     "hp": 40,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Sharpened wand",
@@ -5962,6 +6088,7 @@
     "pd": 19,
     "md": 14,
     "hp": 18,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Paired swords",
@@ -5992,6 +6119,7 @@
     "pd": 17,
     "md": 13,
     "hp": 10,
+    "initiative": 12,
     "attacks": [
       {
         "name": "A thousand needle wounds",
@@ -6029,6 +6157,7 @@
     "pd": 16,
     "md": 20,
     "hp": 84,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Sharpened wand",
@@ -6074,6 +6203,7 @@
     "pd": 21,
     "md": 14,
     "hp": 23,
+    "initiative": 22,
     "attacks": [
       {
         "name": "Stingers on each leg",
@@ -6106,6 +6236,7 @@
     "pd": 16,
     "md": 20,
     "hp": 90,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Bite",
@@ -6141,6 +6272,7 @@
     "pd": 23,
     "md": 18,
     "hp": 270,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Glass-tipped lance",
@@ -6191,6 +6323,7 @@
     "pd": 17,
     "md": 15,
     "hp": 75,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Tentacle maw",
@@ -6262,6 +6395,7 @@
     "pd": 21,
     "md": 20,
     "hp": 310,
+    "initiative": 22,
     "attacks": [
       {
         "name": "Pods of mouths and eyes",
@@ -6313,6 +6447,7 @@
     "pd": 23,
     "md": 27,
     "hp": 864,
+    "initiative": 29,
     "attacks": [
       {
         "name": "Spontaneous metamorphosing limbs",
@@ -6359,6 +6494,7 @@
     "pd": 17,
     "md": 13,
     "hp": 34,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Slam",
@@ -6398,6 +6534,7 @@
     "pd": 18,
     "md": 13,
     "hp": 40,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Rocky fists",
@@ -6427,6 +6564,7 @@
     "pd": 18,
     "md": 15,
     "hp": 38,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Whipping flames",
@@ -6455,6 +6593,7 @@
     "pd": 16,
     "md": 12,
     "hp": 40,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Surge",
@@ -6483,6 +6622,7 @@
     "pd": 19,
     "md": 15,
     "hp": 52,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Slam",
@@ -6532,6 +6672,7 @@
     "pd": 20,
     "md": 15,
     "hp": 66,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Rocky fists",
@@ -6564,6 +6705,7 @@
     "pd": 20,
     "md": 17,
     "hp": 64,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Whipping flames",
@@ -6602,6 +6744,7 @@
     "pd": 18,
     "md": 14,
     "hp": 66,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Surge",
@@ -6634,6 +6777,7 @@
     "pd": 21,
     "md": 17,
     "hp": 88,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Slam",
@@ -6683,6 +6827,7 @@
     "pd": 22,
     "md": 17,
     "hp": 94,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Rocky fists",
@@ -6715,6 +6860,7 @@
     "pd": 22,
     "md": 19,
     "hp": 92,
+    "initiative": 20,
     "attacks": [
       {
         "name": "Whipping flames",
@@ -6753,6 +6899,7 @@
     "pd": 20,
     "md": 16,
     "hp": 100,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Surge",
@@ -6785,6 +6932,7 @@
     "pd": 23,
     "md": 19,
     "hp": 140,
+    "initiative": 25,
     "attacks": [
       {
         "name": "Slam",
@@ -6849,6 +6997,7 @@
     "pd": 24,
     "md": 19,
     "hp": 170,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Rocky fists",
@@ -6886,6 +7035,7 @@
     "pd": 24,
     "md": 21,
     "hp": 166,
+    "initiative": 24,
     "attacks": [
       {
         "name": "Whipping flames",
@@ -6929,6 +7079,7 @@
     "pd": 22,
     "md": 18,
     "hp": 170,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Surge",
@@ -6961,6 +7112,7 @@
     "pd": 13,
     "md": 15,
     "hp": 7,
+    "initiative": 3,
     "attacks": [
       {
         "name": "Sacrificial dagger",
@@ -6989,6 +7141,7 @@
     "pd": 14,
     "md": 14,
     "hp": 32,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Poison bite",
@@ -7028,6 +7181,7 @@
     "pd": 14,
     "md": 17,
     "hp": 44,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Sacrificial dagger",
@@ -7069,6 +7223,7 @@
     "pd": 15,
     "md": 15,
     "hp": 48,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Thrusting spear",
@@ -7123,6 +7278,7 @@
     "pd": 15,
     "md": 18,
     "hp": 50,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Staff and fangs",
@@ -7175,6 +7331,7 @@
     "pd": 18,
     "md": 14,
     "hp": 160,
+    "initiative": 14,
     "attacks": [
       {
         "name": "First big swing",
@@ -7217,6 +7374,7 @@
     "pd": 19,
     "md": 17,
     "hp": 100,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Sapping touch",
@@ -7263,6 +7421,7 @@
     "pd": 17,
     "md": 19,
     "hp": 100,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Contact dust",
@@ -7298,6 +7457,7 @@
     "pd": 20,
     "md": 20,
     "hp": 110,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Fangs in the blossoms",
@@ -7337,6 +7497,7 @@
     "pd": 19,
     "md": 19,
     "hp": 110,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Green spikes",
@@ -7372,6 +7533,7 @@
     "pd": 15,
     "md": 10,
     "hp": 30,
+    "initiative": 4,
     "attacks": [
       {
         "name": "Probing tendrils",
@@ -7409,6 +7571,7 @@
     "pd": 9,
     "md": 13,
     "hp": 7,
+    "initiative": 3,
     "attacks": [
       {
         "name": "C: Stinging tendrils",
@@ -7441,6 +7604,7 @@
     "pd": 16,
     "md": 12,
     "hp": 36,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Chitinous bite",
@@ -7491,6 +7655,7 @@
     "pd": 17,
     "md": 13,
     "hp": 32,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Pitchfork",
@@ -7516,6 +7681,7 @@
     "pd": 13,
     "md": 17,
     "hp": 90,
+    "initiative": 8,
     "attacks": [
       {
         "name": "R: Focused brain blast",
@@ -7557,6 +7723,7 @@
     "pd": 14,
     "md": 18,
     "hp": 98,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Mycotic scepter",
@@ -7595,6 +7762,7 @@
     "pd": 18,
     "md": 18,
     "hp": 170,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Crushing limbs",
@@ -7623,6 +7791,7 @@
     "pd": 12,
     "md": 16,
     "hp": 7,
+    "initiative": 4,
     "attacks": [
       {
         "name": "Slime spikes",
@@ -7642,6 +7811,7 @@
     "pd": 21,
     "md": 14,
     "hp": 60,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Furious claws and fangs",
@@ -7681,6 +7851,7 @@
     "pd": 17,
     "md": 14,
     "hp": 160,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Shlup’n’schlorp",
@@ -7743,6 +7914,7 @@
     "pd": 18,
     "md": 15,
     "hp": 200,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Shlup’n’schlorp",
@@ -7809,6 +7981,7 @@
     "pd": 12,
     "md": 10,
     "hp": 5,
+    "initiative": 3,
     "attacks": [
       {
         "name": "Dirtcaked claw",
@@ -7834,6 +8007,7 @@
     "pd": 15,
     "md": 11,
     "hp": 9,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Scrabbling claws",
@@ -7864,6 +8038,7 @@
     "pd": 15,
     "md": 12,
     "hp": 36,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -7903,6 +8078,7 @@
     "pd": 18,
     "md": 13,
     "hp": 54,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Bony claws",
@@ -7931,6 +8107,7 @@
     "pd": 18,
     "md": 14,
     "hp": 74,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Finely honed claws",
@@ -7963,6 +8140,7 @@
     "pd": 20,
     "md": 14,
     "hp": 200,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Massive gnarly club",
@@ -7994,6 +8172,7 @@
     "pd": 22,
     "md": 13,
     "hp": 20,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Chill claws",
@@ -8029,6 +8208,7 @@
     "pd": 18,
     "md": 13,
     "hp": 70,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Trampling hooves",
@@ -8066,6 +8246,7 @@
     "pd": 20,
     "md": 14,
     "hp": 170,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Fang, claw, or tusk",
@@ -8104,6 +8285,7 @@
     "pd": 21,
     "md": 18,
     "hp": 270,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Whirling ice hook",
@@ -8154,6 +8336,7 @@
     "pd": 21,
     "md": 21,
     "hp": 290,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Cloud-forged morningstar",
@@ -8194,6 +8377,7 @@
     "pd": 19,
     "md": 22,
     "hp": 280,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Staff",
@@ -8232,6 +8416,7 @@
     "pd": 22,
     "md": 17,
     "hp": 210,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Ice-covered war axe",
@@ -8291,6 +8476,7 @@
     "pd": 22,
     "md": 17,
     "hp": 190,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Icicle staff",
@@ -8358,6 +8544,7 @@
     "pd": 21,
     "md": 17,
     "hp": 285,
+    "initiative": 20,
     "attacks": [
       {
         "name": "Flaming greatsword",
@@ -8419,6 +8606,7 @@
     "pd": 23,
     "md": 18,
     "hp": 280,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Overlarge club",
@@ -8457,6 +8645,7 @@
     "pd": 22,
     "md": 18,
     "hp": 270,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Stone club",
@@ -8505,6 +8694,7 @@
     "pd": 22,
     "md": 18,
     "hp": 355,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Flaming greatsword",
@@ -8554,6 +8744,7 @@
     "pd": 24,
     "md": 22,
     "hp": 650,
+    "initiative": 26,
     "attacks": [
       {
         "name": "Truly enormous greatsword",
@@ -8616,6 +8807,7 @@
     "pd": 17,
     "md": 14,
     "hp": 46,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Hand axes",
@@ -8660,6 +8852,7 @@
     "pd": 16,
     "md": 13,
     "hp": 42,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Spear",
@@ -8690,6 +8883,7 @@
     "pd": 17,
     "md": 14,
     "hp": 56,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Heavy flail",
@@ -8719,6 +8913,7 @@
     "pd": 19,
     "md": 15,
     "hp": 95,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Diabolical axe",
@@ -8762,6 +8957,7 @@
     "pd": 19,
     "md": 15,
     "hp": 75,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Infernal mace",
@@ -8811,6 +9007,7 @@
     "pd": 13,
     "md": 12,
     "hp": 22,
+    "initiative": 4,
     "attacks": [
       {
         "name": "Club",
@@ -8841,6 +9038,7 @@
     "pd": 14,
     "md": 11,
     "hp": 5,
+    "initiative": 4,
     "attacks": [
       {
         "name": "Club",
@@ -8872,6 +9070,7 @@
     "pd": 16,
     "md": 15,
     "hp": 88,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Flanged mace",
@@ -8908,6 +9107,7 @@
     "pd": 12,
     "md": 16,
     "hp": 34,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Pointy spear",
@@ -8943,6 +9143,7 @@
     "pd": 14,
     "md": 14,
     "hp": 32,
+    "initiative": 5,
     "attacks": [
       {
         "name": "Longsword",
@@ -8976,6 +9177,7 @@
     "pd": 17,
     "md": 12,
     "hp": 55,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Oversized weapon",
@@ -9000,6 +9202,7 @@
     "pd": 14,
     "md": 17,
     "hp": 42,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Big-ass warclub",
@@ -9060,6 +9263,7 @@
     "pd": 17,
     "md": 14,
     "hp": 50,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Longsword",
@@ -9098,6 +9302,7 @@
     "pd": 14,
     "md": 19,
     "hp": 70,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Warstaff",
@@ -9135,6 +9340,7 @@
     "pd": 16,
     "md": 14,
     "hp": 100,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Sweeping fists",
@@ -9170,6 +9376,7 @@
     "pd": 18,
     "md": 14,
     "hp": 120,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Bare brutal hands",
@@ -9203,6 +9410,7 @@
     "pd": 21,
     "md": 17,
     "hp": 190,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Gong-like fists of bronze",
@@ -9254,6 +9462,7 @@
     "pd": 23,
     "md": 18,
     "hp": 280,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Massive stone fists",
@@ -9299,6 +9508,7 @@
     "pd": 24,
     "md": 20,
     "hp": 360,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Fists of iron",
@@ -9339,6 +9549,7 @@
     "pd": 19,
     "md": 15,
     "hp": 108,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Iron claws",
@@ -9395,6 +9606,7 @@
     "pd": 18,
     "md": 17,
     "hp": 80,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Great axe",
@@ -9434,6 +9646,7 @@
     "pd": 22,
     "md": 18,
     "hp": 150,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Jagged longsword",
@@ -9474,6 +9687,7 @@
     "pd": 14,
     "md": 17,
     "hp": 44,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Talons",
@@ -9517,6 +9731,7 @@
     "pd": 11,
     "md": 16,
     "hp": 20,
+    "initiative": 10,
     "attacks": [
       {
         "name": "C: Screech",
@@ -9567,6 +9782,7 @@
     "pd": 10,
     "md": 18,
     "hp": 36,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Slam",
@@ -9619,6 +9835,7 @@
     "pd": 11,
     "md": 19,
     "hp": 41,
+    "initiative": 12,
     "attacks": [
       {
         "name": "C: Puns",
@@ -9651,6 +9868,7 @@
     "pd": 11,
     "md": 19,
     "hp": 45,
+    "initiative": 11,
     "attacks": [
       {
         "name": "C: Treacherous scream",
@@ -9680,6 +9898,7 @@
     "pd": 12,
     "md": 20,
     "hp": 54,
+    "initiative": 15,
     "attacks": [
       {
         "name": "R: Burning gaze",
@@ -9722,6 +9941,7 @@
     "pd": 15,
     "md": 23,
     "hp": 110,
+    "initiative": 21,
     "attacks": [
       {
         "name": "R: Telekinetic grasp",
@@ -9760,6 +9980,7 @@
     "pd": 13,
     "md": 21,
     "hp": 400,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Huge club",
@@ -9795,6 +10016,7 @@
     "pd": 15,
     "md": 11,
     "hp": 36,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Gnawing teeth",
@@ -9830,6 +10052,7 @@
     "pd": 16,
     "md": 12,
     "hp": 28,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Necrotizing stinger",
@@ -9868,6 +10091,7 @@
     "pd": 15,
     "md": 14,
     "hp": 30,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Claws and mandibles",
@@ -9897,6 +10121,7 @@
     "pd": 15,
     "md": 14,
     "hp": 38,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Serrated maw",
@@ -9926,6 +10151,7 @@
     "pd": 16,
     "md": 11,
     "hp": 58,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Savage bite",
@@ -9967,6 +10193,7 @@
     "pd": 14,
     "md": 12,
     "hp": 27,
+    "initiative": 4,
     "attacks": [
       {
         "name": "Heavy mace",
@@ -9991,6 +10218,7 @@
     "pd": 14,
     "md": 19,
     "hp": 80,
+    "initiative": 15,
     "attacks": [
       {
         "name": "M or R: Demon bow",
@@ -10020,6 +10248,7 @@
     "pd": 12,
     "md": 15,
     "hp": 54,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Ripping tentacles",
@@ -10070,6 +10299,7 @@
     "pd": 19,
     "md": 15,
     "hp": 150,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Gnashing teeth",
@@ -10117,6 +10347,7 @@
     "pd": 21,
     "md": 17,
     "hp": 200,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Gnashing teeth",
@@ -10161,6 +10392,7 @@
     "pd": 17,
     "md": 13,
     "hp": 45,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Bite of the love bug",
@@ -10201,6 +10433,7 @@
     "pd": 18,
     "md": 17,
     "hp": 50,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Brutal kiss",
@@ -10236,6 +10469,7 @@
     "pd": 15,
     "md": 19,
     "hp": 72,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Biting kiss",
@@ -10288,6 +10522,7 @@
     "pd": 18,
     "md": 16,
     "hp": 80,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Palm strike",
@@ -10328,6 +10563,7 @@
     "pd": 16,
     "md": 12,
     "hp": 13,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Clumsy strike",
@@ -10353,6 +10589,7 @@
     "pd": 13,
     "md": 9,
     "hp": 5,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Static jolt",
@@ -10383,6 +10620,7 @@
     "pd": 14,
     "md": 10,
     "hp": 6,
+    "initiative": 5,
     "attacks": [
       {
         "name": "Simple knife",
@@ -10417,6 +10655,7 @@
     "pd": 15,
     "md": 12,
     "hp": 22,
+    "initiative": 5,
     "attacks": [
       {
         "name": "Spear",
@@ -10450,6 +10689,7 @@
     "pd": 16,
     "md": 12,
     "hp": 34,
+    "initiative": 5,
     "attacks": [
       {
         "name": "Shortsword",
@@ -10479,6 +10719,7 @@
     "pd": 17,
     "md": 13,
     "hp": 45,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Wrench, pick, or shovel",
@@ -10519,6 +10760,7 @@
     "pd": 16,
     "md": 12,
     "hp": 41,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Flaming lance",
@@ -10563,6 +10805,7 @@
     "pd": 18,
     "md": 14,
     "hp": 55,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Spear",
@@ -10603,6 +10846,7 @@
     "pd": 17,
     "md": 15,
     "hp": 110,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Bear traps on chains",
@@ -10643,6 +10887,7 @@
     "pd": 13,
     "md": 17,
     "hp": 14,
+    "initiative": 13,
     "attacks": [
       {
         "name": "C: Throwing star",
@@ -10687,6 +10932,7 @@
     "pd": 19,
     "md": 14,
     "hp": 70,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Claws",
@@ -10732,6 +10978,7 @@
     "pd": 20,
     "md": 17,
     "hp": 220,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Hooves",
@@ -10773,6 +11020,7 @@
     "pd": 16,
     "md": 21,
     "hp": 205,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Fiery hoof",
@@ -10837,6 +11085,7 @@
     "pd": 18,
     "md": 23,
     "hp": 275,
+    "initiative": 22,
     "attacks": [
       {
         "name": "Disdainful hoof",
@@ -10891,6 +11140,7 @@
     "pd": 17,
     "md": 23,
     "hp": 330,
+    "initiative": 22,
     "attacks": [
       {
         "name": "Hooves of command",
@@ -10957,6 +11207,7 @@
     "pd": 14,
     "md": 18,
     "hp": 54,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Crystal scepter",
@@ -11003,6 +11254,7 @@
     "pd": 18,
     "md": 22,
     "hp": 240,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Touch of the grave",
@@ -11069,6 +11321,7 @@
     "pd": 24,
     "md": 26,
     "hp": 620,
+    "initiative": 29,
     "attacks": [
       {
         "name": "Draining bone rod",
@@ -11137,6 +11390,7 @@
     "pd": 16,
     "md": 12,
     "hp": 32,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Stone-tip spear (or club)",
@@ -11182,6 +11436,7 @@
     "pd": 19,
     "md": 15,
     "hp": 150,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Battering paws",
@@ -11260,6 +11515,7 @@
     "pd": 19,
     "md": 15,
     "hp": 119,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Pincer claws",
@@ -11325,6 +11581,7 @@
     "pd": 21,
     "md": 15,
     "hp": 170,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Battering paws",
@@ -11390,6 +11647,7 @@
     "pd": 20,
     "md": 16,
     "hp": 182,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Battering paws",
@@ -11436,6 +11694,7 @@
     "pd": 16,
     "md": 20,
     "hp": 150,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Snakes and daggers",
@@ -11488,6 +11747,7 @@
     "pd": 21,
     "md": 25,
     "hp": 500,
+    "initiative": 28,
     "attacks": [
       {
         "name": "Snakes and swords",
@@ -11548,6 +11808,7 @@
     "pd": 17,
     "md": 13,
     "hp": 94,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Axe or horns",
@@ -11587,6 +11848,7 @@
     "pd": 17,
     "md": 22,
     "hp": 350,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Unholy grasp",
@@ -11650,6 +11912,7 @@
     "pd": 16,
     "md": 18,
     "hp": 144,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Bite",
@@ -11700,6 +11963,7 @@
     "pd": 19,
     "md": 21,
     "hp": 144,
+    "initiative": 20,
     "attacks": [
       {
         "name": "Bite",
@@ -11750,6 +12014,7 @@
     "pd": 23,
     "md": 19,
     "hp": 190,
+    "initiative": 24,
     "attacks": [
       {
         "name": "Bite",
@@ -11801,6 +12066,7 @@
     "pd": 16,
     "md": 12,
     "hp": 90,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Big honkin’ club",
@@ -11837,6 +12103,7 @@
     "pd": 16,
     "md": 14,
     "hp": 100,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Remorseful flail",
@@ -11876,6 +12143,7 @@
     "pd": 18,
     "md": 15,
     "hp": 120,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Giant axe or sword",
@@ -11914,6 +12182,7 @@
     "pd": 17,
     "md": 15,
     "hp": 106,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Jagged greatsword or greataxe",
@@ -11956,6 +12225,7 @@
     "pd": 19,
     "md": 18,
     "hp": 140,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Champion’s battle-axe",
@@ -12001,6 +12271,7 @@
     "pd": 23,
     "md": 19,
     "hp": 80,
+    "initiative": 20,
     "attacks": [
       {
         "name": "Ogre-sized chopper",
@@ -12041,6 +12312,7 @@
     "pd": 19,
     "md": 21,
     "hp": 170,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Naginata",
@@ -12108,6 +12380,7 @@
     "pd": 20,
     "md": 22,
     "hp": 230,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Naginata",
@@ -12169,6 +12442,7 @@
     "pd": 22,
     "md": 18,
     "hp": 360,
+    "initiative": 25,
     "attacks": [
       {
         "name": "Horns and claws",
@@ -12258,6 +12532,7 @@
     "pd": 20,
     "md": 19,
     "hp": 470,
+    "initiative": 17,
     "attacks": [
       {
         "name": "C: Acid-drenched pseudopod",
@@ -12287,6 +12562,7 @@
     "pd": 18,
     "md": 15,
     "hp": 200,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Shlup’n’schlorp",
@@ -12319,6 +12595,7 @@
     "pd": 17,
     "md": 16,
     "hp": 90,
+    "initiative": 5,
     "attacks": [
       {
         "name": "C: Acid-drenched pseudopod",
@@ -12348,6 +12625,7 @@
     "pd": 14,
     "md": 10,
     "hp": 30,
+    "initiative": 4,
     "attacks": [
       {
         "name": "Jagged sword",
@@ -12372,6 +12650,7 @@
     "pd": 15,
     "md": 13,
     "hp": 40,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Greataxe",
@@ -12400,6 +12679,7 @@
     "pd": 12,
     "md": 16,
     "hp": 36,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Spear",
@@ -12430,6 +12710,7 @@
     "pd": 17,
     "md": 11,
     "hp": 32,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Scimitar",
@@ -12466,6 +12747,7 @@
     "pd": 15,
     "md": 12,
     "hp": 18,
+    "initiative": 4,
     "attacks": [
       {
         "name": "Punch or bludgeon",
@@ -12495,6 +12777,7 @@
     "pd": 18,
     "md": 12,
     "hp": 10,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Obsidian knife",
@@ -12529,6 +12812,7 @@
     "pd": 17,
     "md": 13,
     "hp": 45,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Club’n’tusk",
@@ -12553,6 +12837,7 @@
     "pd": 20,
     "md": 16,
     "hp": 27,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Greataxe",
@@ -12581,6 +12866,7 @@
     "pd": 25,
     "md": 21,
     "hp": 50,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Double axe",
@@ -12627,6 +12913,7 @@
     "pd": 17,
     "md": 13,
     "hp": 84,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Grasping tentacles",
@@ -12671,6 +12958,7 @@
     "pd": 17,
     "md": 13,
     "hp": 101,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Rip and peck",
@@ -12704,6 +12992,7 @@
     "pd": 22,
     "md": 18,
     "hp": 200,
+    "initiative": 23,
     "attacks": [
       {
         "name": "Phasing fangs",
@@ -12759,6 +13048,7 @@
     "pd": 12,
     "md": 15,
     "hp": 40,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Attack name",
@@ -12813,6 +13103,7 @@
     "pd": 13,
     "md": 16,
     "hp": 40,
+    "initiative": 10,
     "attacks": [
       {
         "name": "C: Peripheral summoning",
@@ -12862,6 +13153,7 @@
     "pd": 17,
     "md": 13,
     "hp": 10,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Needle sword",
@@ -12897,6 +13189,7 @@
     "pd": 22,
     "md": 17,
     "hp": 36,
+    "initiative": 22,
     "attacks": [
       {
         "name": "Mouthparts",
@@ -12941,6 +13234,7 @@
     "pd": 20,
     "md": 16,
     "hp": 44,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Bitey maw",
@@ -12978,6 +13272,7 @@
     "pd": 20,
     "md": 22,
     "hp": 280,
+    "initiative": 24,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -13033,6 +13328,7 @@
     "pd": 17,
     "md": 14,
     "hp": 32,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Stabby knife",
@@ -13084,6 +13380,7 @@
     "pd": 18,
     "md": 15,
     "hp": 42,
+    "initiative": 12,
     "attacks": [
       {
         "name": "Twin skinning knives",
@@ -13129,6 +13426,7 @@
     "pd": 21,
     "md": 18,
     "hp": 84,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Huge bloody cleavers",
@@ -13175,6 +13473,7 @@
     "pd": 22,
     "md": 19,
     "hp": 100,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Big bloody axe",
@@ -13215,6 +13514,7 @@
     "pd": 12,
     "md": 8,
     "hp": 5,
+    "initiative": 0,
     "attacks": [
       {
         "name": "Sharp nibbling beaks",
@@ -13239,6 +13539,7 @@
     "pd": 16,
     "md": 12,
     "hp": 36,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Arctic bite",
@@ -13268,6 +13569,7 @@
     "pd": 20,
     "md": 16,
     "hp": 180,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Würm glaciation",
@@ -13312,6 +13614,7 @@
     "pd": 22,
     "md": 18,
     "hp": 280,
+    "initiative": 19,
     "attacks": [
       {
         "name": "C: Death from below!",
@@ -13360,6 +13663,7 @@
     "pd": 17,
     "md": 13,
     "hp": 45,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Caustic bite",
@@ -13408,6 +13712,7 @@
     "pd": 14,
     "md": 13,
     "hp": 34,
+    "initiative": 6,
     "attacks": [
       {
         "name": "Coral-tipped spear",
@@ -13456,6 +13761,7 @@
     "pd": 14,
     "md": 11,
     "hp": 10,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Razortoothed jaws",
@@ -13493,6 +13799,7 @@
     "pd": 19,
     "md": 16,
     "hp": 70,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Trident and bite",
@@ -13537,6 +13844,7 @@
     "pd": 16,
     "md": 19,
     "hp": 70,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Coral rod",
@@ -13589,6 +13897,7 @@
     "pd": 19,
     "md": 14,
     "hp": 32,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Massive iron jaws",
@@ -13622,6 +13931,7 @@
     "pd": 20,
     "md": 15,
     "hp": 200,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Four-armed frenzy",
@@ -13676,6 +13986,7 @@
     "pd": 14,
     "md": 10,
     "hp": 7,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Sword",
@@ -13696,6 +14007,7 @@
     "pd": 14,
     "md": 11,
     "hp": 26,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Jabby bones",
@@ -13722,6 +14034,7 @@
     "pd": 14,
     "md": 11,
     "hp": 26,
+    "initiative": 10,
     "attacks": [
       {
         "name": "Spear",
@@ -13742,6 +14055,7 @@
     "pd": 15,
     "md": 17,
     "hp": 48,
+    "initiative": 14,
     "attacks": [
       {
         "name": "Shortsword",
@@ -13781,6 +14095,7 @@
     "pd": 14,
     "md": 10,
     "hp": 18,
+    "initiative": 4,
     "attacks": [
       {
         "name": "Claws",
@@ -13817,6 +14132,7 @@
     "pd": 14,
     "md": 12,
     "hp": 22,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Serrated claws",
@@ -13852,6 +14168,7 @@
     "pd": 14,
     "md": 12,
     "hp": 30,
+    "initiative": 6,
     "attacks": [
       {
         "name": "Claws",
@@ -13891,6 +14208,7 @@
     "pd": 13,
     "md": 9,
     "hp": 4,
+    "initiative": 2,
     "attacks": [
       {
         "name": "Claws",
@@ -13936,6 +14254,7 @@
     "pd": 21,
     "md": 23,
     "hp": 180,
+    "initiative": 24,
     "attacks": [
       {
         "name": "Soul flensing tentacles",
@@ -14001,6 +14320,7 @@
     "pd": 20,
     "md": 22,
     "hp": 60,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Fists, claws, or shoddy weapons",
@@ -14030,6 +14350,7 @@
     "pd": 15,
     "md": 19,
     "hp": 160,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Icy, life-draining touch",
@@ -14070,6 +14391,7 @@
     "pd": 18,
     "md": 22,
     "hp": 550,
+    "initiative": 21,
     "attacks": [
       {
         "name": "Icy, life-draining touch",
@@ -14124,6 +14446,7 @@
     "pd": 13,
     "md": 13,
     "hp": 46,
+    "initiative": 5,
     "attacks": [
       {
         "name": "Gauntlet slap",
@@ -14168,6 +14491,7 @@
     "pd": 14,
     "md": 13,
     "hp": 38,
+    "initiative": 6,
     "attacks": [
       {
         "name": "Cheap greatsword",
@@ -14203,6 +14527,7 @@
     "pd": 15,
     "md": 13,
     "hp": 40,
+    "initiative": 5,
     "attacks": [
       {
         "name": "Steel hammer",
@@ -14236,6 +14561,7 @@
     "pd": 20,
     "md": 14,
     "hp": 13,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Lashing branches",
@@ -14261,6 +14587,7 @@
     "pd": 21,
     "md": 15,
     "hp": 65,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Grasping branches",
@@ -14303,6 +14630,7 @@
     "pd": 26,
     "md": 20,
     "hp": 390,
+    "initiative": 19,
     "attacks": [
       {
         "name": "Grasping branches",
@@ -14354,6 +14682,7 @@
     "pd": 17,
     "md": 13,
     "hp": 38,
+    "initiative": 6,
     "attacks": [
       {
         "name": "Club",
@@ -14384,6 +14713,7 @@
     "pd": 16,
     "md": 18,
     "hp": 44,
+    "initiative": 8,
     "attacks": [
       {
         "name": "Spear",
@@ -14419,6 +14749,7 @@
     "pd": 22,
     "md": 17,
     "hp": 38,
+    "initiative": 18,
     "attacks": [
       {
         "name": "Club",
@@ -14450,6 +14781,7 @@
     "pd": 17,
     "md": 13,
     "hp": 90,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Greedy wicked claw",
@@ -14496,6 +14828,7 @@
     "pd": 20,
     "md": 26,
     "hp": 220,
+    "initiative": 25,
     "attacks": [
       {
         "name": "Deathly touch",
@@ -14536,6 +14869,7 @@
     "pd": 17,
     "md": 15,
     "hp": 90,
+    "initiative": 16,
     "attacks": [
       {
         "name": "Claw",
@@ -14568,6 +14902,7 @@
     "pd": 23,
     "md": 20,
     "hp": 54,
+    "initiative": 26,
     "attacks": [
       {
         "name": "Claws and fangs",
@@ -14592,6 +14927,7 @@
     "pd": 14,
     "md": 11,
     "hp": 9,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Spear, sword, or club",
@@ -14611,6 +14947,7 @@
     "pd": 14,
     "md": 18,
     "hp": 34,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Infected bite",
@@ -14663,6 +15000,7 @@
     "pd": 15,
     "md": 19,
     "hp": 42,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Ravening bite",
@@ -14701,6 +15039,7 @@
     "pd": 16,
     "md": 20,
     "hp": 120,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Goring tusks",
@@ -14753,6 +15092,7 @@
     "pd": 17,
     "md": 21,
     "hp": 140,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Massive claws",
@@ -14805,6 +15145,7 @@
     "pd": 18,
     "md": 22,
     "hp": 180,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Claws and bite",
@@ -14854,6 +15195,7 @@
     "pd": 15,
     "md": 19,
     "hp": 100,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Soul bite",
@@ -14918,6 +15260,7 @@
     "pd": 15,
     "md": 11,
     "hp": 13,
+    "initiative": 13,
     "attacks": [
       {
         "name": "Bloody melee weapon",
@@ -14949,6 +15292,7 @@
     "pd": 22,
     "md": 22,
     "hp": 600,
+    "initiative": 27,
     "attacks": [
       {
         "name": "Icy claws",
@@ -15011,6 +15355,7 @@
     "pd": 14,
     "md": 20,
     "hp": 62,
+    "initiative": 20,
     "attacks": [
       {
         "name": "Tentacle caress",
@@ -15067,6 +15412,7 @@
     "pd": 13,
     "md": 13,
     "hp": 6,
+    "initiative": 2,
     "attacks": [
       {
         "name": "R: Force burp spell",
@@ -15104,6 +15450,7 @@
     "pd": 17,
     "md": 13,
     "hp": 48,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Sword",
@@ -15134,6 +15481,7 @@
     "pd": 14,
     "md": 17,
     "hp": 66,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Ice-cold ghost blade",
@@ -15179,6 +15527,7 @@
     "pd": 19,
     "md": 14,
     "hp": 140,
+    "initiative": 15,
     "attacks": [
       {
         "name": "Tearing jaws",
@@ -15221,6 +15570,7 @@
     "pd": 12,
     "md": 8,
     "hp": 10,
+    "initiative": 1,
     "attacks": [
       {
         "name": "Rotting fist",
@@ -15251,6 +15601,7 @@
     "pd": 13,
     "md": 9,
     "hp": 60,
+    "initiative": 3,
     "attacks": [
       {
         "name": "Rotting fist",
@@ -15286,6 +15637,7 @@
     "pd": 12,
     "md": 8,
     "hp": 110,
+    "initiative": 3,
     "attacks": [
       {
         "name": "Smash",
@@ -15335,6 +15687,7 @@
     "pd": 15,
     "md": 12,
     "hp": 160,
+    "initiative": 7,
     "attacks": [
       {
         "name": "Club or club-like fists",
@@ -15364,6 +15717,7 @@
     "pd": 15,
     "md": 11,
     "hp": 20,
+    "initiative": 11,
     "attacks": [
       {
         "name": "Iron-hard hands",
@@ -15414,6 +15768,7 @@
     "pd": 21,
     "md": 17,
     "hp": 100,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Club or club-like fists",
@@ -15447,6 +15802,7 @@
     "pd": 20,
     "md": 17,
     "hp": 270,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Flailing fists",
@@ -15500,6 +15856,7 @@
     "pd": 13,
     "md": 17,
     "hp": 30,
+    "initiative": 9,
     "attacks": [
       {
         "name": "Headbutt",
@@ -15539,6 +15896,7 @@
     "pd": 17,
     "md": 19,
     "hp": 75,
+    "initiative": 17,
     "attacks": [
       {
         "name": "Multi-geared mace",
@@ -15578,6 +15936,7 @@
     "pd": 23,
     "md": 23,
     "hp": 200,
+    "initiative": 28,
     "attacks": [
       {
         "name": "Arm full of blades",

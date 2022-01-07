@@ -14,7 +14,7 @@ export class StatblockRenderer extends MarkdownRenderChild {
 			this.statblockEl.createDiv({ cls: "em", text: params.blurb });
 		}
 
-		const role = this.statblockEl.createDiv({ cls: "role" });
+		const role = this.statblockEl.createDiv();
 		role.createSpan({ cls: "em", text: this.roleText });
 		if (params.tag) {
 			role.createSpan({ cls: "sc", text: ` [${params.tag}]` });
@@ -31,7 +31,7 @@ export class StatblockRenderer extends MarkdownRenderChild {
 			this.renderSimpleItem(trait);
 		}
 
-		if (params.specials) {
+		if (params.specials?.length > 0) {
 			this.statblockEl.createEl("h2", { text: "Nastier Specials" });
 			for (const special of params.specials) {
 				this.renderSimpleItem(special)
@@ -63,7 +63,6 @@ export class StatblockRenderer extends MarkdownRenderChild {
 		return capitalize(
 			[
 				this.params.size,
-				this.params.strength && `${this.params.strength}-strength`,
 				`${nth} level`,
 				this.params.role,
 			].join(" ").trim()
@@ -87,8 +86,8 @@ export class StatblockRenderer extends MarkdownRenderChild {
 
 		for (const extra of attack.extras ?? []) {
 			const div = attackEl.createDiv();
-			div.createSpan({ cls: "em", text: `${extra.trigger}: ` });
-			div.createSpan({ text: extra.result });
+			div.createSpan({ cls: "em", text: `${extra.name}: ` });
+			div.createSpan({ text: extra.description });
 		}
 	}
 
@@ -104,7 +103,7 @@ function capitalize(str: string): string {
 	return lower[0].toUpperCase() + lower.slice(1);
 }
 
-function bonus(stat: number): string {
+function bonus(stat: number | string): string {
 	if (stat === 0) return stat.toString();
-	return stat > 0 ? `+${stat}` : stat.toString();
+	return stat > 0 ? `+${stat}` : `${stat}`;
 }

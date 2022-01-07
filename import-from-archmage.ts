@@ -25,7 +25,7 @@ async function doit() {
 			pd: parsed.data.attributes.pd.value,
 			md: parsed.data.attributes.md.value,
 			hp: parsed.data.attributes.hp.value,
-			initiative: parsed.data.attributes.init.modifier,
+			initiative: parsed.data.attributes.init.mod,
 			attacks: [] as any[],
 			traits: [] as any[],
 			specials: [] as any[],
