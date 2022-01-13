@@ -14,15 +14,19 @@ export class StatblockRenderer extends MarkdownRenderChild {
 			this.statblockEl.createDiv({ cls: "em", text: params.blurb });
 		}
 
-		const role = this.statblockEl.createDiv();
-		role.createSpan({ cls: "em", text: this.roleText });
-		if (params.tag) {
-			role.createSpan({ cls: "sc", text: ` [${params.tag}]` });
+		if (this.roleText !== undefined) {
+			const role = this.statblockEl.createDiv();
+			role.createSpan({ cls: "em", text: this.roleText });
+			if (params.tag) {
+				role.createSpan({ cls: "sc", text: ` [${params.tag}]` });
+			}
 		}
 
-		this.statblockEl.createDiv({
-			text: `Initiative: ${bonus(params.initiative)}`,
-		});
+		if (params.initiative !== undefined) {
+			this.statblockEl.createDiv({
+				text: `Initiative: ${bonus(params.initiative)}`,
+			});
+		}
 
 		for (const attack of params.attacks) {
 			this.renderAttack(attack);
@@ -34,7 +38,7 @@ export class StatblockRenderer extends MarkdownRenderChild {
 		if (params.specials?.length > 0) {
 			this.statblockEl.createEl("h2", { text: "Nastier Specials" });
 			for (const special of params.specials) {
-				this.renderSimpleItem(special)
+				this.renderSimpleItem(special);
 			}
 		}
 
@@ -47,7 +51,9 @@ export class StatblockRenderer extends MarkdownRenderChild {
 		numbers.createDiv("");
 	}
 
-	get roleText(): string {
+	get roleText(): string | undefined {
+		if (this.params.level === undefined) return undefined;
+
 		const ordinalRules = new Intl.PluralRules("en", { type: "ordinal" });
 		const suffixes = {
 			zero: "th",
@@ -61,11 +67,9 @@ export class StatblockRenderer extends MarkdownRenderChild {
 		const nth = `${this.params.level}${suffix}`;
 
 		return capitalize(
-			[
-				this.params.size,
-				`${nth} level`,
-				this.params.role,
-			].join(" ").trim()
+			[this.params.size, `${nth} level`, this.params.role]
+				.join(" ")
+				.trim()
 		);
 	}
 
