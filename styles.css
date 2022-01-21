@@ -12,6 +12,10 @@
 .statblock-13a div {
 	margin-bottom: 20px;
 }
+.statblock-13a .nomargin {
+	margin-bottom: 0;
+	margin-top: 0;
+}
 
 .statblock-13a h1,
 .statblock-13a h2,

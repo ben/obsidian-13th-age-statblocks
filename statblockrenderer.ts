@@ -8,15 +8,15 @@ export class StatblockRenderer extends MarkdownRenderChild {
 
 		this.statblockEl = this.containerEl.createDiv({ cls: "statblock-13a" });
 
-		this.statblockEl.createEl("h1", { cls: "sc", text: params.name });
 		this.statblockEl.createDiv({ cls: "fl-r em", text: params.source });
+		this.statblockEl.createEl("h1", { cls: "sc nomargin", text: params.name });
 
 		if (params.blurb) {
 			this.statblockEl.createDiv({ cls: "em", text: params.blurb });
 		}
 
 		if (this.roleText !== undefined) {
-			const role = this.statblockEl.createDiv();
+			const role = this.statblockEl.createDiv({ cls: "nomargin" });
 			role.createSpan({ cls: "em", text: this.roleText });
 			if (params.tag) {
 				role.createSpan({ cls: "sc", text: ` [${params.tag}]` });
