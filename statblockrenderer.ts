@@ -29,10 +29,10 @@ export class StatblockRenderer extends MarkdownRenderChild {
 			});
 		}
 
-		for (const attack of params.attacks) {
+		for (const attack of params.attacks || []) {
 			this.renderAttack(attack);
 		}
-		for (const trait of params.traits) {
+		for (const trait of params.traits || []) {
 			this.renderSimpleItem(trait);
 		}
 
