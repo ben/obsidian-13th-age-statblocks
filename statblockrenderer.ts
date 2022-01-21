@@ -9,6 +9,7 @@ export class StatblockRenderer extends MarkdownRenderChild {
 		this.statblockEl = this.containerEl.createDiv({ cls: "statblock-13a" });
 
 		this.statblockEl.createEl("h1", { cls: "sc", text: params.name });
+		this.statblockEl.createDiv({ cls: "fl-r em", text: params.source });
 
 		if (params.blurb) {
 			this.statblockEl.createDiv({ cls: "em", text: params.blurb });
