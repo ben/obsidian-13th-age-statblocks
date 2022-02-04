@@ -26,6 +26,12 @@ export class StatblockRenderer extends MarkdownRenderChild {
 		if (params.initiative !== undefined) {
 			this.statblockEl.createDiv({
 				text: `Initiative: ${bonus(params.initiative)}`,
+				cls: params.vuln ? "nomargin" : undefined,
+			});
+		}
+		if (params.vuln !== undefined) {
+			this.statblockEl.createDiv({
+				text: `Vulnerability: ${params.vuln}`,
 			});
 		}
 
