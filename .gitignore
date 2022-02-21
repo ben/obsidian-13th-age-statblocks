@@ -13,6 +13,7 @@ package-lock.json
 # They should be uploaded to GitHub releases instead.
 main.js
 import-from-archmage.js
+import-from-archmage-yaml.js
 
 # Exclude sourcemaps
 *.map
