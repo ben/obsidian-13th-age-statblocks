@@ -26,7 +26,7 @@ async function doit() {
 		  size,
 		  tag: parsed.data.details.type.value,
 		  role: parsed.data.details.role.value || undefined,
-		  vulnerability: parsed.data.details.vulnerability.value || undefined,
+		  vuln: parsed.data.details.vulnerability.value || undefined,
 		  ac: parsed.data.attributes.ac.value,
 		  pd: parsed.data.attributes.pd.value,
 		  md: parsed.data.attributes.md.value,
