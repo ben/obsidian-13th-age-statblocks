@@ -1,7 +1,7 @@
 {
 	"id": "13th-age-statblocks",
 	"name": "13th Age Statblocks",
-	"version": "0.1.5",
+	"version": "0.1.6",
 	"minAppVersion": "0.12.0",
 	"description": "Render 13th Age statblocks in Obsidian.",
 	"author": "Ben Straub",
