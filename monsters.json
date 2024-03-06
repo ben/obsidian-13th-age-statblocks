@@ -483,11 +483,11 @@
     "specials": [
       {
         "name": "Split reality",
-        "description": "<p>The eidolon splits the party into different realities. Each player rolls a /r d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a /r d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
+        "description": "<p>The eidolon splits the party into different realities. Each player rolls a d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
       },
       {
         "name": "Warp time",
-        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a /r d6 roll.</p>"
+        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a d6 roll.</p>"
       },
       {
         "name": "Reshuffle space",
@@ -1460,7 +1460,7 @@
     "traits": [
       {
         "name": "Shift",
-        "description": "<p>Unless the escalation die is 6+, roll a d6 at the start of the flux elemental&rsquo;s turn. On a 4+, the flux elemental shifts.</p>\n<p>Roll /r 1d4 when the flux elemental rolls initiative and when it shifts to determine its new form, a benefit, and its current attack</p>\n<p><strong>1</strong> Shift to air: When the flux elemental shifts to air, it gains flight until it shifts to a different form (it can land as part of its next move after shifting out of air), and it also gains a +1 attack bonus (cumulative) until the end of the battle!</p>\n<p><strong>2</strong> Shift to earth: When the flux elemental shifts to earth, it gains a +1 AC bonus (cumulative) until the end of the battle!</p>\n<p><strong>3</strong> Shift to fire: When the flux elemental shifts to fire, it gains a +1d8 damage bonus with all its attacks (cumulative, only applies to hits).</p>\n<p><strong>4</strong> Shift to water: When the flux elemental shifts to water, it gains 2d10 additional hit points (cumulative) until the end of the battle!</p>"
+        "description": "<p>Unless the escalation die is 6+, roll a d6 at the start of the flux elemental&rsquo;s turn. On a 4+, the flux elemental shifts.</p>\n<p>Roll 1d4 when the flux elemental rolls initiative and when it shifts to determine its new form, a benefit, and its current attack</p>\n<p><strong>1</strong> Shift to air: When the flux elemental shifts to air, it gains flight until it shifts to a different form (it can land as part of its next move after shifting out of air), and it also gains a +1 attack bonus (cumulative) until the end of the battle!</p>\n<p><strong>2</strong> Shift to earth: When the flux elemental shifts to earth, it gains a +1 AC bonus (cumulative) until the end of the battle!</p>\n<p><strong>3</strong> Shift to fire: When the flux elemental shifts to fire, it gains a +1d8 damage bonus with all its attacks (cumulative, only applies to hits).</p>\n<p><strong>4</strong> Shift to water: When the flux elemental shifts to water, it gains 2d10 additional hit points (cumulative) until the end of the battle!</p>"
       },
       {
         "name": "Power-up",
@@ -1768,11 +1768,11 @@
       },
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -1827,11 +1827,11 @@
     "specials": [
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -2017,7 +2017,7 @@
     "traits": [
       {
         "name": "Blood of the fallen",
-        "description": "<p>When a bloody shade dies, one random nearby non-mook ally regains /r 2d6 hp.</p>"
+        "description": "<p>When a bloody shade dies, one random nearby non-mook ally regains 2d6 hp.</p>"
       }
     ],
     "specials": []
@@ -2190,11 +2190,11 @@
     "specials": [
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -2260,15 +2260,15 @@
       },
       {
         "name": "Esoteric expulsion",
-        "description": "<p>When the orb-bearer dies having absorbed a spell but not having released the energy via arcane discharge, roll a /r d6:</p>\n<p><strong>1:</strong> Spatial bend&mdash;Whoever made the attack that finished the orb- bearer swaps places with the ally or enemy furthest from them.</p>\n<p><strong>2:</strong> Time twist&mdash;The last character to act disappears, and reappears in the same place at the end of their next turn.&nbsp;</p>\n<p><strong>3:</strong> Esoteric detonation&mdash;The /r 1d3+1 closest creatures take 10 force damage and 10 ongoing lightning damage.&nbsp;</p>\n<p><strong>4:</strong> Weird expulsion&mdash;Something harmlessly odd happens, centered on the area around the body: a rain of frogs, or colored lights start to dance, or a glowing cloud appears, etc.</p>\n<p><strong>5:</strong> Bizarre expulsion&mdash;Something distractingly odd happens that causes one random enemy and one random ally to be dazed until the end of their next turns: their local gravity becomes warped, they blaze with coruscating light, they briefly turn inside out, etc.</p>\n<p><strong>6:</strong> Stranger expulsion&mdash;Something dangerously odd happens, dealing 40 ongoing damage to the nearest enemy to the orb-bearer and perhaps having a lingering effect after the battle: target ages or becomes younger rapidly, target enveloped in ice, target&rsquo;s skin catches fire, etc.</p>"
+        "description": "<p>When the orb-bearer dies having absorbed a spell but not having released the energy via arcane discharge, roll a d6:</p>\n<p><strong>1:</strong> Spatial bend&mdash;Whoever made the attack that finished the orb- bearer swaps places with the ally or enemy furthest from them.</p>\n<p><strong>2:</strong> Time twist&mdash;The last character to act disappears, and reappears in the same place at the end of their next turn.&nbsp;</p>\n<p><strong>3:</strong> Esoteric detonation&mdash;The 1d3+1 closest creatures take 10 force damage and 10 ongoing lightning damage.&nbsp;</p>\n<p><strong>4:</strong> Weird expulsion&mdash;Something harmlessly odd happens, centered on the area around the body: a rain of frogs, or colored lights start to dance, or a glowing cloud appears, etc.</p>\n<p><strong>5:</strong> Bizarre expulsion&mdash;Something distractingly odd happens that causes one random enemy and one random ally to be dazed until the end of their next turns: their local gravity becomes warped, they blaze with coruscating light, they briefly turn inside out, etc.</p>\n<p><strong>6:</strong> Stranger expulsion&mdash;Something dangerously odd happens, dealing 40 ongoing damage to the nearest enemy to the orb-bearer and perhaps having a lingering effect after the battle: target ages or becomes younger rapidly, target enveloped in ice, target&rsquo;s skin catches fire, etc.</p>"
       },
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -6360,7 +6360,7 @@
       },
       {
         "name": "The Demonic Icon’s blessing",
-        "description": "<p>Once per battle as a standard action, the Demonic Icon wizard can grant one nearby player character a random demon-style power from the table below. The blessing only takes effect if the character accepts it, but the character can choose to accept the blessing at any point this day, in this or another battle. If the blessing is accepted, the Demonic Icon&rsquo;s blessing affects the target&rsquo;s icon relationships the same as the Demonic Icon&rsquo;s knowledge.</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 11.6731%;\"><col style=\"width: 88.3269%;\"></colgroup>\n<tbody>\n<tr>\n<td>/r d4</td>\n<td>Random Demon-Style Power</td>\n</tr>\n<tr>\n<td>1</td>\n<td><em>Resist energy 16+</em>&mdash;When an attack that deals energy damage targets you, the attacker must roll a natural 16+ on the attack roll or it only deals half damage.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>\n<p><em>Fear aura</em>&mdash;Enemies engaged with you that have fewer hit points than double your current hit points are dazed. If they could normally use the escalation die, now they can&rsquo;t.</p>\n</td>\n</tr>\n<tr>\n<td>3</td>\n<td><em>Demonic speed</em>&mdash;You can take an extra standard action each turn that the escalation die is even. You lose 2d6 hit points each time you use the extra action.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>\n<p><em>Teleport /r 1d3+1 times this battle</em>&mdash;As a move action, you can teleport anywhere you can see nearby.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
+        "description": "<p>Once per battle as a standard action, the Demonic Icon wizard can grant one nearby player character a random demon-style power from the table below. The blessing only takes effect if the character accepts it, but the character can choose to accept the blessing at any point this day, in this or another battle. If the blessing is accepted, the Demonic Icon&rsquo;s blessing affects the target&rsquo;s icon relationships the same as the Demonic Icon&rsquo;s knowledge.</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 11.6731%;\"><col style=\"width: 88.3269%;\"></colgroup>\n<tbody>\n<tr>\n<td>d4</td>\n<td>Random Demon-Style Power</td>\n</tr>\n<tr>\n<td>1</td>\n<td><em>Resist energy 16+</em>&mdash;When an attack that deals energy damage targets you, the attacker must roll a natural 16+ on the attack roll or it only deals half damage.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>\n<p><em>Fear aura</em>&mdash;Enemies engaged with you that have fewer hit points than double your current hit points are dazed. If they could normally use the escalation die, now they can&rsquo;t.</p>\n</td>\n</tr>\n<tr>\n<td>3</td>\n<td><em>Demonic speed</em>&mdash;You can take an extra standard action each turn that the escalation die is even. You lose 2d6 hit points each time you use the extra action.</td>\n</tr>\n<tr>\n<td>4</td>\n<td>\n<p><em>Teleport 1d3+1 times this battle</em>&mdash;As a move action, you can teleport anywhere you can see nearby.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
       },
       {
         "name": "Ye called in Their name, and I came hither",
@@ -7972,11 +7972,11 @@
       },
       {
         "name": "Split reality",
-        "description": "<p>The eidolon splits the party into different realities. Each player rolls a /r d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a /r d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
+        "description": "<p>The eidolon splits the party into different realities. Each player rolls a d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
       },
       {
         "name": "Warp time",
-        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a /r d6 roll.</p>"
+        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a d6 roll.</p>"
       },
       {
         "name": "Reshuffle space",
@@ -8032,11 +8032,11 @@
     "specials": [
       {
         "name": "Split reality",
-        "description": "<p>The eidolon splits the party into different realities. Each player rolls a /r d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a /r d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
+        "description": "<p>The eidolon splits the party into different realities. Each player rolls a d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
       },
       {
         "name": "Warp time",
-        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a /r d6 roll.</p>"
+        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a d6 roll.</p>"
       },
       {
         "name": "Reshuffle space",
@@ -8075,11 +8075,11 @@
     "specials": [
       {
         "name": "Split reality",
-        "description": "<p>The eidolon splits the party into different realities. Each player rolls a /r d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a /r d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
+        "description": "<p>The eidolon splits the party into different realities. Each player rolls a d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
       },
       {
         "name": "Warp time",
-        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a /r d6 roll.</p>"
+        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a d6 roll.</p>"
       },
       {
         "name": "Reshuffle space",
@@ -8140,11 +8140,11 @@
     "specials": [
       {
         "name": "Split reality",
-        "description": "<p>The eidolon splits the party into different realities. Each player rolls a /r d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a /r d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
+        "description": "<p>The eidolon splits the party into different realities. Each player rolls a d4 for their character. That PC can only perceive and interact with the eidolon and with other characters who rolled the same number. That means PCs in different realities can&rsquo;t communicate or affect each other in any way. For the rest of the battle, each player rolls a d4 at the start of the round to see which reality their character is now in. At the start of each round, the eidolon can choose which version(s) of reality its allies are in.</p>"
       },
       {
         "name": "Warp time",
-        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a /r d6 roll.</p>"
+        "description": "<p>At the start of each round two combatants swap places in the initiative order as determined by the eidolon. Alternately, the eidolon warps the momentum of the battle and the escalation die value is determined at the start of the round with a d6 roll.</p>"
       },
       {
         "name": "Reshuffle space",
@@ -8955,7 +8955,7 @@
     "traits": [
       {
         "name": "Shift",
-        "description": "<p>Unless the escalation die is 6+, roll a  at the start of the flux elemental&rsquo;s turn. On a 4+, the flux elemental shifts.</p>\n<p>Roll /r 1d4 when the flux elemental rolls initiative and when it shifts to determine its new form, a benefit, and its current attack</p>\n<p><strong>2</strong> Shift to air: When the flux elemental shifts to air, it gains flight until it shifts to a different form (it can land as part of its next move after shifting out of air), and it also gains a +2 attack bonus (cumulative) until the end of the battle!</p>\n<p><strong>3</strong> Shift to earth: When the flux elemental shifts to earth, it gains a +2 AC bonus (cumulative) until the end of the battle!</p>\n<p><strong>5</strong> Shift to fire: When the flux elemental shifts to fire, it gains a +1d12 damage bonus with all its attacks (cumulative, only applies to hits).</p>\n<p><strong>6</strong> Shift to water: When the flux elemental shifts to water, it gains 6d10 additional hit points (cumulative) until the end of the battle!</p>"
+        "description": "<p>Unless the escalation die is 6+, roll a  at the start of the flux elemental&rsquo;s turn. On a 4+, the flux elemental shifts.</p>\n<p>Roll 1d4 when the flux elemental rolls initiative and when it shifts to determine its new form, a benefit, and its current attack</p>\n<p><strong>2</strong> Shift to air: When the flux elemental shifts to air, it gains flight until it shifts to a different form (it can land as part of its next move after shifting out of air), and it also gains a +2 attack bonus (cumulative) until the end of the battle!</p>\n<p><strong>3</strong> Shift to earth: When the flux elemental shifts to earth, it gains a +2 AC bonus (cumulative) until the end of the battle!</p>\n<p><strong>5</strong> Shift to fire: When the flux elemental shifts to fire, it gains a +1d12 damage bonus with all its attacks (cumulative, only applies to hits).</p>\n<p><strong>6</strong> Shift to water: When the flux elemental shifts to water, it gains 6d10 additional hit points (cumulative) until the end of the battle!</p>"
       },
       {
         "name": "Power-up",
@@ -10058,7 +10058,7 @@
       },
       {
         "name": "Path of the Sword",
-        "description": "<p><em>Barbed arrowhead</em>&mdash;<em>Pinning shot</em> deals /r 1d6 extra damage on a natural even hit.</p>"
+        "description": "<p><em>Barbed arrowhead</em>&mdash;<em>Pinning shot</em> deals 1d6 extra damage on a natural even hit.</p>"
       },
       {
         "name": "Path of Song",
@@ -10848,7 +10848,7 @@
       },
       {
         "name": "Reborn in fire",
-        "description": "<p>Whenever the phoenix drops to 0 hit points, roll a /r d20 and add the escalation die. For each time this phoenix has rolled its reborn in fire ability earlier this battle, subtract 10 from the roll. For example, a phoenix making its second reborn in fire roll (because its first roll ended up being 20+!) when the escalation die is 6 would roll the d20 and subtract 4.</p>\n<p><strong>20+</strong>: The flamebird phoenix is immediately reborn, healing to 40 hit points, and keeps fighting!</p>\n<p><strong>15&ndash;19</strong>: The phoenix is reborn in fire, but vaults into the overworld, removed from the battle. On the other hand, it&rsquo;s not done with the PCs! Add the phoenix to an upcoming battle by surprise, adding it as an additional monster not accounted for by the usual encounter-building calculations.</p>\n<p><strong>8&ndash;14</strong>: The flamebird phoenix is reborn in fire but wants nothing more to do with this battle. It makes a <em>conflagration of rebirth</em>&nbsp;attack, but when the attack is over it shoots off into the overworld so quickly that it&rsquo;s a teleport effect, and does not return to the battle, nor to the adventure.</p>\n<p><strong>7 or less</strong>: The phoenix flares back to life somewhere nearby in a few hours, days, months, or years. Probably not relevant to the PCs unless they or the phoenix bear a special grudge.</p>"
+        "description": "<p>Whenever the phoenix drops to 0 hit points, roll a d20 and add the escalation die. For each time this phoenix has rolled its reborn in fire ability earlier this battle, subtract 10 from the roll. For example, a phoenix making its second reborn in fire roll (because its first roll ended up being 20+!) when the escalation die is 6 would roll the d20 and subtract 4.</p>\n<p><strong>20+</strong>: The flamebird phoenix is immediately reborn, healing to 40 hit points, and keeps fighting!</p>\n<p><strong>15&ndash;19</strong>: The phoenix is reborn in fire, but vaults into the overworld, removed from the battle. On the other hand, it&rsquo;s not done with the PCs! Add the phoenix to an upcoming battle by surprise, adding it as an additional monster not accounted for by the usual encounter-building calculations.</p>\n<p><strong>8&ndash;14</strong>: The flamebird phoenix is reborn in fire but wants nothing more to do with this battle. It makes a <em>conflagration of rebirth</em>&nbsp;attack, but when the attack is over it shoots off into the overworld so quickly that it&rsquo;s a teleport effect, and does not return to the battle, nor to the adventure.</p>\n<p><strong>7 or less</strong>: The phoenix flares back to life somewhere nearby in a few hours, days, months, or years. Probably not relevant to the PCs unless they or the phoenix bear a special grudge.</p>"
       }
     ],
     "specials": [
@@ -11049,7 +11049,7 @@
     "traits": [
       {
         "name": "Shift",
-        "description": "<p>Unless the escalation die is 6+, roll a d6 at the start of the flux elemental&rsquo;s turn. On a 4+, the flux elemental shifts.</p>\n<p>Roll /r 1d4 when the flux elemental rolls initiative and when it shifts to determine its new form, a benefit, and its current attack</p>\n<p><strong>1</strong> Shift to air: When the flux elemental shifts to air, it gains flight until it shifts to a different form (it can land as part of its next move after shifting out of air), and it also gains a +1 attack bonus (cumulative) until the end of the battle!</p>\n<p><strong>2</strong> Shift to earth: When the flux elemental shifts to earth, it gains a +1 AC bonus (cumulative) until the end of the battle!</p>\n<p><strong>3</strong> Shift to fire: When the flux elemental shifts to fire, it gains a +1d6 damage bonus with all its attacks (cumulative, only applies to hits).</p>\n<p><strong>4</strong> Shift to water: When the flux elemental shifts to water, it gains 2d6 additional hit points (cumulative) until the end of the battle!</p>"
+        "description": "<p>Unless the escalation die is 6+, roll a d6 at the start of the flux elemental&rsquo;s turn. On a 4+, the flux elemental shifts.</p>\n<p>Roll 1d4 when the flux elemental rolls initiative and when it shifts to determine its new form, a benefit, and its current attack</p>\n<p><strong>1</strong> Shift to air: When the flux elemental shifts to air, it gains flight until it shifts to a different form (it can land as part of its next move after shifting out of air), and it also gains a +1 attack bonus (cumulative) until the end of the battle!</p>\n<p><strong>2</strong> Shift to earth: When the flux elemental shifts to earth, it gains a +1 AC bonus (cumulative) until the end of the battle!</p>\n<p><strong>3</strong> Shift to fire: When the flux elemental shifts to fire, it gains a +1d6 damage bonus with all its attacks (cumulative, only applies to hits).</p>\n<p><strong>4</strong> Shift to water: When the flux elemental shifts to water, it gains 2d6 additional hit points (cumulative) until the end of the battle!</p>"
       },
       {
         "name": "Power-up",
@@ -11112,7 +11112,7 @@
     "traits": [
       {
         "name": "Chaos aura",
-        "description": "<p>At the start of each round roll a /r d6 and compare it to the escalation die. Whichever result is highest determines the true-fomori&rsquo;s effect on local reality for that round. (If there are multiple true-fomori in the battle, only roll for one per round.)&nbsp;</p>\n<p><strong>1:</strong> Crawling shadows&mdash;Wherever the fomori&rsquo;s shadow falls, small objects turn into insects.</p>\n<p><strong>2&ndash;3:</strong> Deeper insanity&mdash;When an enemy target&rsquo;s the fomori&rsquo;s MD and gets a natural odd attack roll, the attack rebounds and that enemy must reroll the attack against itself.</p>\n<p><strong>4&ndash;5:</strong> Sudden reversals&mdash;This round the escalation die value is a negative, subtracting from the adventurers&rsquo; attack rolls.</p>\n<p><strong>6:</strong> Doom&mdash;The fomori and its allies use the escalation die and the adventurers do not.</p>"
+        "description": "<p>At the start of each round roll a d6 and compare it to the escalation die. Whichever result is highest determines the true-fomori&rsquo;s effect on local reality for that round. (If there are multiple true-fomori in the battle, only roll for one per round.)&nbsp;</p>\n<p><strong>1:</strong> Crawling shadows&mdash;Wherever the fomori&rsquo;s shadow falls, small objects turn into insects.</p>\n<p><strong>2&ndash;3:</strong> Deeper insanity&mdash;When an enemy target&rsquo;s the fomori&rsquo;s MD and gets a natural odd attack roll, the attack rebounds and that enemy must reroll the attack against itself.</p>\n<p><strong>4&ndash;5:</strong> Sudden reversals&mdash;This round the escalation die value is a negative, subtracting from the adventurers&rsquo; attack rolls.</p>\n<p><strong>6:</strong> Doom&mdash;The fomori and its allies use the escalation die and the adventurers do not.</p>"
       },
       {
         "name": "Fear aura",
@@ -11268,7 +11268,7 @@
     "traits": [
       {
         "name": "Chaos aura",
-        "description": "<p>At the start of each round roll a /r d6 and compare it to the escalation die. Whichever result is highest determines the true-fomori&rsquo;s effect on local reality for that round. (If there are multiple true-fomori in the battle, only roll for one per round.)&nbsp;</p>\n<p><strong>1:</strong> Bleeding steel&mdash;Inanimate objects scream and bleed.</p>\n<p><strong>2&ndash;3:</strong> Creeping insanity&mdash;Each non-fomori creature takes a &ndash;2 penalty to MD.</p>\n<p><strong>4&ndash;5:</strong> Abandoned and friendless&mdash;The adventurers can&rsquo;t aid each other, communicate with each other, or otherwise count each other as allies.</p>\n<p><strong>6:</strong> Doom&mdash;The fomori and its allies use the escalation die and the adventurers do not.</p>"
+        "description": "<p>At the start of each round roll a d6 and compare it to the escalation die. Whichever result is highest determines the true-fomori&rsquo;s effect on local reality for that round. (If there are multiple true-fomori in the battle, only roll for one per round.)&nbsp;</p>\n<p><strong>1:</strong> Bleeding steel&mdash;Inanimate objects scream and bleed.</p>\n<p><strong>2&ndash;3:</strong> Creeping insanity&mdash;Each non-fomori creature takes a &ndash;2 penalty to MD.</p>\n<p><strong>4&ndash;5:</strong> Abandoned and friendless&mdash;The adventurers can&rsquo;t aid each other, communicate with each other, or otherwise count each other as allies.</p>\n<p><strong>6:</strong> Doom&mdash;The fomori and its allies use the escalation die and the adventurers do not.</p>"
       },
       {
         "name": "Fear aura",
@@ -11460,7 +11460,7 @@
     "specials": [
       {
         "name": "Fomorian Mutation Nastier Specials",
-        "description": "<p>Roll on the table below if you wish. You can also give fomorians some unclean-one abilities (though never unearthly beauty).</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 12.9083%;\"><col style=\"width: 87.0917%;\"></colgroup>\n<tbody>\n<tr>\n<td>/r d4</td>\n<td>Mutation</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Extra arm</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra eyes</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fair is foul</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Thick skin</td>\n</tr>\n</tbody>\n</table>"
+        "description": "<p>Roll on the table below if you wish. You can also give fomorians some unclean-one abilities (though never unearthly beauty).</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 12.9083%;\"><col style=\"width: 87.0917%;\"></colgroup>\n<tbody>\n<tr>\n<td>d4</td>\n<td>Mutation</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Extra arm</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra eyes</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fair is foul</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Thick skin</td>\n</tr>\n</tbody>\n</table>"
       },
       {
         "name": "Extra arm",
@@ -11522,7 +11522,7 @@
     "specials": [
       {
         "name": "Fomorian Mutation Nastier Specials",
-        "description": "<p>Roll on the table below if you wish. You can also give fomorians some unclean-one abilities (though never unearthly beauty).</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 12.9083%;\"><col style=\"width: 87.0917%;\"></colgroup>\n<tbody>\n<tr>\n<td>/r d4</td>\n<td>Mutation</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Extra arm</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra eyes</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fair is foul</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Thick skin</td>\n</tr>\n</tbody>\n</table>"
+        "description": "<p>Roll on the table below if you wish. You can also give fomorians some unclean-one abilities (though never unearthly beauty).</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 12.9083%;\"><col style=\"width: 87.0917%;\"></colgroup>\n<tbody>\n<tr>\n<td>d4</td>\n<td>Mutation</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Extra arm</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra eyes</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fair is foul</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Thick skin</td>\n</tr>\n</tbody>\n</table>"
       },
       {
         "name": "Extra arm",
@@ -11589,7 +11589,7 @@
       },
       {
         "name": "Fomorian Mutation Nastier Specials",
-        "description": "<p>Roll on the table below if you wish. You can also give fomorians some unclean-one abilities (though never unearthly beauty).</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 12.9083%;\"><col style=\"width: 87.0917%;\"></colgroup>\n<tbody>\n<tr>\n<td>/r d4</td>\n<td>Mutation</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Extra arm</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra eyes</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fair is foul</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Thick skin</td>\n</tr>\n</tbody>\n</table>"
+        "description": "<p>Roll on the table below if you wish. You can also give fomorians some unclean-one abilities (though never unearthly beauty).</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 12.9083%;\"><col style=\"width: 87.0917%;\"></colgroup>\n<tbody>\n<tr>\n<td>d4</td>\n<td>Mutation</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Extra arm</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra eyes</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Fair is foul</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Thick skin</td>\n</tr>\n</tbody>\n</table>"
       },
       {
         "name": "Extra arm",
@@ -12121,7 +12121,7 @@
     "traits": [
       {
         "name": "Croaking chorus",
-        "description": "<p>At the start of each round, all spellcroakers in a battle start to croak together in chorus. This imposes a special bonus or penalty depending on the croak generated by the chorus that round (roll /r 1d6).</p>\n<p><strong>1-2</strong>: Croak of Dismay: If the number of spellcroakers is equal to or greater than the value of the escalation die, then the player characters do not get the benefit of the escalation die, but all frogs and frogfolk may add the value of the escalation die to their attack rolls instead.</p>\n<p><strong>3&ndash;4</strong>: Croak of Victory: All attacks by frogfolk gain a bonus to damage equal to the number of croakers.</p>\n<p><strong>5-6</strong>: Croak of Choking: Over the course of the round, you may force the player characters to reroll a number of d20 rolls (attack rolls, saving throws, skill checks, death saves) equal to the number of croakers.</p>\n<p>When a spellcroaker drops to 0 hit points, roll a /r d20&mdash;on a 11+, the remaining spellcroakers maintain the croaking chorus for the rest of the round. Otherwise, the chorus effect is cancelled for the rest of that round.</p>"
+        "description": "<p>At the start of each round, all spellcroakers in a battle start to croak together in chorus. This imposes a special bonus or penalty depending on the croak generated by the chorus that round (roll 1d6).</p>\n<p><strong>1-2</strong>: Croak of Dismay: If the number of spellcroakers is equal to or greater than the value of the escalation die, then the player characters do not get the benefit of the escalation die, but all frogs and frogfolk may add the value of the escalation die to their attack rolls instead.</p>\n<p><strong>3&ndash;4</strong>: Croak of Victory: All attacks by frogfolk gain a bonus to damage equal to the number of croakers.</p>\n<p><strong>5-6</strong>: Croak of Choking: Over the course of the round, you may force the player characters to reroll a number of d20 rolls (attack rolls, saving throws, skill checks, death saves) equal to the number of croakers.</p>\n<p>When a spellcroaker drops to 0 hit points, roll a d20&mdash;on a 11+, the remaining spellcroakers maintain the croaking chorus for the rest of the round. Otherwise, the chorus effect is cancelled for the rest of that round.</p>"
       },
       {
         "name": "Frogspawn abilities",
@@ -13178,7 +13178,7 @@
       {
         "name": "Talon grab",
         "attack": "+9 vs. AC",
-        "hit": "11 damage, and the giant bird of prey grabs the target unless the target is large or bigger. Until the target escapes, it moves with the bird of prey when it moves. If it breaks free while in the air, it takes /r 4d6 damage from the fall",
+        "hit": "11 damage, and the giant bird of prey grabs the target unless the target is large or bigger. Until the target escapes, it moves with the bird of prey when it moves. If it breaks free while in the air, it takes 4d6 damage from the fall",
         "extras": []
       }
     ],
@@ -14428,7 +14428,7 @@
     "specials": [
       {
         "name": "Dire Feature",
-        "description": "<p>Add a dire feature. Roll a /r d6.</p>\n<p><strong>1:</strong> Armor plates</p>\n<p><strong>2:</strong> Spiky bits</p>\n<p><strong>3:</strong> Carnage</p>\n<p><strong>4:</strong> Poison</p>\n<p><strong>5:</strong> Dire regeneration</p>\n<p><strong>6:</strong> Fury</p>"
+        "description": "<p>Add a dire feature. Roll a d6.</p>\n<p><strong>1:</strong> Armor plates</p>\n<p><strong>2:</strong> Spiky bits</p>\n<p><strong>3:</strong> Carnage</p>\n<p><strong>4:</strong> Poison</p>\n<p><strong>5:</strong> Dire regeneration</p>\n<p><strong>6:</strong> Fury</p>"
       },
       {
         "name": "Armor plates",
@@ -14707,7 +14707,7 @@
     "traits": [
       {
         "name": "Shift",
-        "description": "<p>Unless the escalation die is 6+, roll a d6 at the start of the flux elemental&rsquo;s turn. On a 4+, the flux elemental shifts.</p>\n<p>Roll /r 1d4 when the flux elemental rolls initiative and when it shifts to determine its new form, a benefit, and its current attack</p>\n<p><strong>1</strong> Shift to air: When the flux elemental shifts to air, it gains flight until it shifts to a different form (it can land as part of its next move after shifting out of air), and it also gains a +1 attack bonus (cumulative) until the end of the battle!</p>\n<p><strong>2</strong> Shift to earth: When the flux elemental shifts to earth, it gains a +1 AC bonus (cumulative) until the end of the battle!</p>\n<p><strong>3</strong> Shift to fire: When the flux elemental shifts to fire, it gains a +1d12 damage bonus with all its attacks (cumulative, only applies to hits).</p>\n<p><strong>4</strong> Shift to water: When the flux elemental shifts to water, it gains 6d6 additional hit points (cumulative) until the end of the battle!</p>"
+        "description": "<p>Unless the escalation die is 6+, roll a d6 at the start of the flux elemental&rsquo;s turn. On a 4+, the flux elemental shifts.</p>\n<p>Roll 1d4 when the flux elemental rolls initiative and when it shifts to determine its new form, a benefit, and its current attack</p>\n<p><strong>1</strong> Shift to air: When the flux elemental shifts to air, it gains flight until it shifts to a different form (it can land as part of its next move after shifting out of air), and it also gains a +1 attack bonus (cumulative) until the end of the battle!</p>\n<p><strong>2</strong> Shift to earth: When the flux elemental shifts to earth, it gains a +1 AC bonus (cumulative) until the end of the battle!</p>\n<p><strong>3</strong> Shift to fire: When the flux elemental shifts to fire, it gains a +1d12 damage bonus with all its attacks (cumulative, only applies to hits).</p>\n<p><strong>4</strong> Shift to water: When the flux elemental shifts to water, it gains 6d6 additional hit points (cumulative) until the end of the battle!</p>"
       },
       {
         "name": "Power-up",
@@ -14924,11 +14924,11 @@
       },
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -14982,11 +14982,11 @@
     "specials": [
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -15773,7 +15773,7 @@
     "traits": [
       {
         "name": "Aberrant attacks",
-        "description": "<p>While building a battle with a hellwarped beast, roll once on the Aberrant Attacks table to see what type of attack it has. The spawn can use its aberrant attack normally, or trigger it with a <em>piercing claws</em> attack.</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 13.7519%;\"><col style=\"width: 86.2481%;\"></colgroup>\n<tbody>\n<tr>\n<td>/r d6</td>\n<td>Attack</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Biting mandibles</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra claw</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Lashing tentacle</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Antennae waveburst</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Shooting quills</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Charging horn slam</td>\n</tr>\n</tbody>\n</table>"
+        "description": "<p>While building a battle with a hellwarped beast, roll once on the Aberrant Attacks table to see what type of attack it has. The spawn can use its aberrant attack normally, or trigger it with a <em>piercing claws</em> attack.</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 13.7519%;\"><col style=\"width: 86.2481%;\"></colgroup>\n<tbody>\n<tr>\n<td>d6</td>\n<td>Attack</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Biting mandibles</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra claw</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Lashing tentacle</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Antennae waveburst</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Shooting quills</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Charging horn slam</td>\n</tr>\n</tbody>\n</table>"
       },
       {
         "name": "Infected by hell",
@@ -15781,7 +15781,7 @@
       },
       {
         "name": "Mutated form",
-        "description": "<p>Since different creatures become hellwarped beasts, some are tougher or hardier than others. Before battle, roll a d6 and adjust the hellwarped&rsquo;s stats accordingly.&nbsp;</p>\n<ol>\n<li>\n<table style=\"width: 100%; height: 119px;\" border=\"1\"><colgroup><col style=\"width: 11.7089%;\"><col style=\"width: 88.2911%;\"></colgroup>\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">/r d6</td>\n<td style=\"height: 17px;\">Effect</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">1</td>\n<td style=\"height: 17px;\">&ndash;2 to all defenses</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">2</td>\n<td style=\"height: 17px;\">+2 to all defenses</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">3</td>\n<td style=\"height: 17px;\">&ndash;10% to hit points</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">4</td>\n<td style=\"height: 17px;\">+10% to hit points</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">5</td>\n<td style=\"height: 17px;\">&ndash;1 to all attacks</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">6</td>\n<td style=\"height: 17px;\">+1 to all attacks</td>\n</tr>\n</tbody>\n</table>\n</li>\n</ol>"
+        "description": "<p>Since different creatures become hellwarped beasts, some are tougher or hardier than others. Before battle, roll a d6 and adjust the hellwarped&rsquo;s stats accordingly.&nbsp;</p>\n<ol>\n<li>\n<table style=\"width: 100%; height: 119px;\" border=\"1\"><colgroup><col style=\"width: 11.7089%;\"><col style=\"width: 88.2911%;\"></colgroup>\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">d6</td>\n<td style=\"height: 17px;\">Effect</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">1</td>\n<td style=\"height: 17px;\">&ndash;2 to all defenses</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">2</td>\n<td style=\"height: 17px;\">+2 to all defenses</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">3</td>\n<td style=\"height: 17px;\">&ndash;10% to hit points</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">4</td>\n<td style=\"height: 17px;\">+10% to hit points</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">5</td>\n<td style=\"height: 17px;\">&ndash;1 to all attacks</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">6</td>\n<td style=\"height: 17px;\">+1 to all attacks</td>\n</tr>\n</tbody>\n</table>\n</li>\n</ol>"
       }
     ],
     "specials": [
@@ -15873,7 +15873,7 @@
     "traits": [
       {
         "name": "Aberrant attacks",
-        "description": "<p>While building a battle with a hellwarped beast, roll once on the Aberrant Attacks table to see what type of attack it has. The spawn can use its aberrant attack normally, or trigger it with a <em>piercing claws</em> attack.</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 13.7519%;\"><col style=\"width: 86.2481%;\"></colgroup>\n<tbody>\n<tr>\n<td>/r d6</td>\n<td>Attack</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Biting mandibles</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra claw</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Lashing tentacle</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Antennae waveburst</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Shooting quills</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Charging horn slam</td>\n</tr>\n</tbody>\n</table>"
+        "description": "<p>While building a battle with a hellwarped beast, roll once on the Aberrant Attacks table to see what type of attack it has. The spawn can use its aberrant attack normally, or trigger it with a <em>piercing claws</em> attack.</p>\n<table style=\"width: 100%;\" border=\"1\"><colgroup><col style=\"width: 13.7519%;\"><col style=\"width: 86.2481%;\"></colgroup>\n<tbody>\n<tr>\n<td>d6</td>\n<td>Attack</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Biting mandibles</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Extra claw</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Lashing tentacle</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Antennae waveburst</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Shooting quills</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Charging horn slam</td>\n</tr>\n</tbody>\n</table>"
       },
       {
         "name": "Infected by hell",
@@ -15881,7 +15881,7 @@
       },
       {
         "name": "Mutated form",
-        "description": "<p>Since different creatures become hellwarped beasts, some are tougher or hardier than others. Before battle, roll a d6 and adjust the hellwarped&rsquo;s stats accordingly.&nbsp;</p>\n<ol>\n<li>\n<table style=\"width: 100%; height: 119px;\" border=\"1\"><colgroup><col style=\"width: 11.7089%;\"><col style=\"width: 88.2911%;\"></colgroup>\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">/r d6</td>\n<td style=\"height: 17px;\">Effect</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">1</td>\n<td style=\"height: 17px;\">&ndash;2 to all defenses</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">2</td>\n<td style=\"height: 17px;\">+2 to all defenses</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">3</td>\n<td style=\"height: 17px;\">&ndash;10% to hit points</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">4</td>\n<td style=\"height: 17px;\">+10% to hit points</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">5</td>\n<td style=\"height: 17px;\">&ndash;1 to all attacks</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">6</td>\n<td style=\"height: 17px;\">+1 to all attacks</td>\n</tr>\n</tbody>\n</table>\n</li>\n</ol>"
+        "description": "<p>Since different creatures become hellwarped beasts, some are tougher or hardier than others. Before battle, roll a d6 and adjust the hellwarped&rsquo;s stats accordingly.&nbsp;</p>\n<ol>\n<li>\n<table style=\"width: 100%; height: 119px;\" border=\"1\"><colgroup><col style=\"width: 11.7089%;\"><col style=\"width: 88.2911%;\"></colgroup>\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">d6</td>\n<td style=\"height: 17px;\">Effect</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">1</td>\n<td style=\"height: 17px;\">&ndash;2 to all defenses</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">2</td>\n<td style=\"height: 17px;\">+2 to all defenses</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">3</td>\n<td style=\"height: 17px;\">&ndash;10% to hit points</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">4</td>\n<td style=\"height: 17px;\">+10% to hit points</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">5</td>\n<td style=\"height: 17px;\">&ndash;1 to all attacks</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">6</td>\n<td style=\"height: 17px;\">+1 to all attacks</td>\n</tr>\n</tbody>\n</table>\n</li>\n</ol>"
       }
     ],
     "specials": [
@@ -18082,7 +18082,7 @@
     "traits": [
       {
         "name": "Summon ghouls",
-        "description": "<p>The jackal high priest starts each battle accompanied by a mob of /r 1d6+1 10th level greater summoned ghoul mooks. (The mooks gained via this ability are accounted for in the building battle math by the jackal priest&rsquo;s designation as a double-strength monster.) At the start of each of the jackal priest&rsquo;s turns, (whether or not the jackal high priest is engaged!) roll a /r d6. If you roll less than or equal to the escalation die, use the jackal priest&rsquo;s standard action to add another mob of /r 1d6+1 greater summoned ghoul mooks to the battle. The newly summoned mooks take their turn after the jackal high priest&rsquo;s turn. Stop rolling the d6 after the ability has triggered to summon the second mob of ghoul mooks.</p>"
+        "description": "<p>The jackal high priest starts each battle accompanied by a mob of 1d6+1 10th level greater summoned ghoul mooks. (The mooks gained via this ability are accounted for in the building battle math by the jackal priest&rsquo;s designation as a double-strength monster.) At the start of each of the jackal priest&rsquo;s turns, (whether or not the jackal high priest is engaged!) roll a d6. If you roll less than or equal to the escalation die, use the jackal priest&rsquo;s standard action to add another mob of 1d6+1 greater summoned ghoul mooks to the battle. The newly summoned mooks take their turn after the jackal high priest&rsquo;s turn. Stop rolling the d6 after the ability has triggered to summon the second mob of ghoul mooks.</p>"
       }
     ],
     "specials": [
@@ -18185,7 +18185,7 @@
     "traits": [
       {
         "name": "Summon ghouls",
-        "description": "<p>The jackal priest starts each battle accompanied by a mob of /r 1d4+1 7th level summoned ghoul mooks. (The mooks gained via this ability are accounted for in the building battle math by the jackal priest&rsquo;s designation as an elite monster.) At the start of each of the jackal priest&rsquo;s turns, if the jackal priest is not engaged, roll a /r d6. If you roll less than or equal to the escalation die, use the jackal priest&rsquo;s standard action to add another mob of /r 1d4+1 summoned ghoul mooks to the battle. The newly summoned mooks take their turn after the jackal priest&rsquo;s turn. Stop rolling the d6 after the ability has triggered to summon the second mob of ghoul mooks.</p>"
+        "description": "<p>The jackal priest starts each battle accompanied by a mob of 1d4+1 7th level summoned ghoul mooks. (The mooks gained via this ability are accounted for in the building battle math by the jackal priest&rsquo;s designation as an elite monster.) At the start of each of the jackal priest&rsquo;s turns, if the jackal priest is not engaged, roll a d6. If you roll less than or equal to the escalation die, use the jackal priest&rsquo;s standard action to add another mob of 1d4+1 summoned ghoul mooks to the battle. The newly summoned mooks take their turn after the jackal priest&rsquo;s turn. Stop rolling the d6 after the ability has triggered to summon the second mob of ghoul mooks.</p>"
       },
       {
         "name": "Elite",
@@ -19117,7 +19117,7 @@
     "specials": [
       {
         "name": "Invocation of the gods’ protection",
-        "description": "<p>Once per battle, as a quick action, the kohwa messenger can invoke the protection of their unknown gods. Once the invocation has been made, at the start of each of the messenger&rsquo;s turns, roll /r 1d6. As long as the roll is equal to or less than the escalation die, critical hits against the messenger and its allies only inflict normal damage (although they do still trigger the kohwa enforcer&rsquo;s acid rain attack, if appropriate). As soon as the roll fails, the protection lapses.</p>"
+        "description": "<p>Once per battle, as a quick action, the kohwa messenger can invoke the protection of their unknown gods. Once the invocation has been made, at the start of each of the messenger&rsquo;s turns, roll 1d6. As long as the roll is equal to or less than the escalation die, critical hits against the messenger and its allies only inflict normal damage (although they do still trigger the kohwa enforcer&rsquo;s acid rain attack, if appropriate). As soon as the roll fails, the protection lapses.</p>"
       },
       {
         "name": "Implacable dread",
@@ -19232,7 +19232,7 @@
       },
       {
         "name": "Stolen magic",
-        "description": "<p>Once per battle as a standard action, a koruku landkiller can make one of the magical attacks listed under \"stolen magic.\"&nbsp;The first five attacks can add the escalation die when rolled against a target that has an icon relationship with the icon the power has been stolen from! Feel free to roll a /r d6 if you don&rsquo;t want to spend time choosing between attacks. (If its thrashing tail attack roll allows the landkiller to regain stolen magic, it doesn&rsquo;t have to choose which magical attack it will use until it actually uses the attack.)</p>"
+        "description": "<p>Once per battle as a standard action, a koruku landkiller can make one of the magical attacks listed under \"stolen magic.\"&nbsp;The first five attacks can add the escalation die when rolled against a target that has an icon relationship with the icon the power has been stolen from! Feel free to roll a d6 if you don&rsquo;t want to spend time choosing between attacks. (If its thrashing tail attack roll allows the landkiller to regain stolen magic, it doesn&rsquo;t have to choose which magical attack it will use until it actually uses the attack.)</p>"
       }
     ],
     "specials": [
@@ -24596,7 +24596,7 @@
     "traits": [
       {
         "name": "Hidden plans",
-        "description": "<p>As a standard action, the rakshasa mastermind rolls a /r d4 or a /r d6, your choice. If the roll is equal to or less than the escalation die, a number of the rakshasa mastermind&rsquo;s allies equal to the die roll will enter the battle in the next round. Each new ally should be about as tough as a single PC according to the building battles table. Explain this ability as the culmination of the rakshasas&rsquo; cunning plans.</p>"
+        "description": "<p>As a standard action, the rakshasa mastermind rolls a d4 or a d6, your choice. If the roll is equal to or less than the escalation die, a number of the rakshasa mastermind&rsquo;s allies equal to the die roll will enter the battle in the next round. Each new ally should be about as tough as a single PC according to the building battles table. Explain this ability as the culmination of the rakshasas&rsquo; cunning plans.</p>"
       },
       {
         "name": "Shapechange",
@@ -25143,11 +25143,11 @@
     "specials": [
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -25215,11 +25215,11 @@
       },
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -25344,7 +25344,7 @@
       },
       {
         "name": "Reborn in fire",
-        "description": "<p>Whenever the resurgent phoenix drops to 0 hit points, roll a /r d20 and add the escalation die. For each time this phoenix has rolled its reborn in fire ability earlier this battle, subtract 10 from the roll. For example, a phoenix making its second reborn in fire roll (because its first roll ended up being 20+!) when the escalation die is 6 would roll the d20 and subtract 4.</p>\n<p><strong>20+</strong>: The flamebird phoenix is immediately reborn, healing to 70 hit points, and keeps fighting!</p>\n<p><strong>15&ndash;19</strong>: The phoenix is reborn in fire, but vaults into the overworld, removed from the battle. On the other hand, it&rsquo;s not done with the PCs! Add the phoenix to an upcoming battle by surprise, adding it as an additional monster not accounted for by the usual encounter-building calculations.</p>\n<p><strong>8&ndash;14</strong>: The flamebird phoenix is reborn in fire but wants nothing more to do with this battle. It makes a <em>conflagration of rebirth</em>&nbsp;attack, but when the attack is over it shoots off into the overworld so quickly that it&rsquo;s a teleport effect, and does not return to the battle, nor to the adventure.</p>\n<p><strong>7 or less</strong>: The phoenix flares back to life somewhere nearby in a few hours, days, months, or years. Probably not relevant to the PCs unless they or the phoenix bear a special grudge.</p>"
+        "description": "<p>Whenever the resurgent phoenix drops to 0 hit points, roll a d20 and add the escalation die. For each time this phoenix has rolled its reborn in fire ability earlier this battle, subtract 10 from the roll. For example, a phoenix making its second reborn in fire roll (because its first roll ended up being 20+!) when the escalation die is 6 would roll the d20 and subtract 4.</p>\n<p><strong>20+</strong>: The flamebird phoenix is immediately reborn, healing to 70 hit points, and keeps fighting!</p>\n<p><strong>15&ndash;19</strong>: The phoenix is reborn in fire, but vaults into the overworld, removed from the battle. On the other hand, it&rsquo;s not done with the PCs! Add the phoenix to an upcoming battle by surprise, adding it as an additional monster not accounted for by the usual encounter-building calculations.</p>\n<p><strong>8&ndash;14</strong>: The flamebird phoenix is reborn in fire but wants nothing more to do with this battle. It makes a <em>conflagration of rebirth</em>&nbsp;attack, but when the attack is over it shoots off into the overworld so quickly that it&rsquo;s a teleport effect, and does not return to the battle, nor to the adventure.</p>\n<p><strong>7 or less</strong>: The phoenix flares back to life somewhere nearby in a few hours, days, months, or years. Probably not relevant to the PCs unless they or the phoenix bear a special grudge.</p>"
       }
     ],
     "specials": []
@@ -26467,7 +26467,7 @@
       },
       {
         "name": "Shadow fate",
-        "description": "<p>When the shadow mongoose dies all the icon relationship dice that it stole return to their owners. The person who killed the shadow mongoose gains 1d3 &lsquo;5&rsquo; icon dice results with a random icon that they do not have a relationship with OR a 6 with the Trickster Icon if they do not have a relationship with him (roll /r 1d3 for relationship type: 1=Negative, 2= Conflicted, 3= Positive).</p>"
+        "description": "<p>When the shadow mongoose dies all the icon relationship dice that it stole return to their owners. The person who killed the shadow mongoose gains 1d3 &lsquo;5&rsquo; icon dice results with a random icon that they do not have a relationship with OR a 6 with the Trickster Icon if they do not have a relationship with him (roll 1d3 for relationship type: 1=Negative, 2= Conflicted, 3= Positive).</p>"
       }
     ],
     "specials": [
@@ -27175,7 +27175,7 @@
       },
       {
         "name": "Reborn in fire",
-        "description": "<p>Whenever the phoenix drops to 0 hit points, roll a /r d20 and add the escalation die. For each time this phoenix has rolled its reborn in fire ability earlier this battle, subtract 10 from the roll. For example, a phoenix making its second reborn in fire roll (because its first roll ended up being 20+!) when the escalation die is 6 would roll the d20 and subtract 4.</p>\n<p><strong>20+</strong>: The solar phoenix is immediately reborn, healing to 400 hit points and keeps fighting!</p>\n<p><strong>15&ndash;19</strong>: The phoenix is reborn in fire, but vaults into the overworld, removed from the battle. On the other hand, it&rsquo;s not done with the PCs! Add the phoenix to an upcoming battle by surprise, adding it as an additional monster not accounted for by the usual encounter-building calculations.</p>\n<p><strong>8&ndash;14</strong>: The solar phoenix is reborn in fire but wants nothing more to do with this battle. It makes a&nbsp;<em>conflagration of rebirth</em> attack, but when the attack is over it shoots off into the overworld so quickly that it&rsquo;s a teleport effect, and does not return to the battle, nor to the adventure.&nbsp;</p>\n<p><strong>7 or less</strong>: The phoenix flares back to life somewhere nearby in a few hours, days, months, or years. Probably not relevant to the PCs unless they or the phoenix bear a special grudge. But who are we kidding? This is a solar phoenix. It has its own agenda, and the PCs just got onto the agenda, one way or another.</p>"
+        "description": "<p>Whenever the phoenix drops to 0 hit points, roll a d20 and add the escalation die. For each time this phoenix has rolled its reborn in fire ability earlier this battle, subtract 10 from the roll. For example, a phoenix making its second reborn in fire roll (because its first roll ended up being 20+!) when the escalation die is 6 would roll the d20 and subtract 4.</p>\n<p><strong>20+</strong>: The solar phoenix is immediately reborn, healing to 400 hit points and keeps fighting!</p>\n<p><strong>15&ndash;19</strong>: The phoenix is reborn in fire, but vaults into the overworld, removed from the battle. On the other hand, it&rsquo;s not done with the PCs! Add the phoenix to an upcoming battle by surprise, adding it as an additional monster not accounted for by the usual encounter-building calculations.</p>\n<p><strong>8&ndash;14</strong>: The solar phoenix is reborn in fire but wants nothing more to do with this battle. It makes a&nbsp;<em>conflagration of rebirth</em> attack, but when the attack is over it shoots off into the overworld so quickly that it&rsquo;s a teleport effect, and does not return to the battle, nor to the adventure.&nbsp;</p>\n<p><strong>7 or less</strong>: The phoenix flares back to life somewhere nearby in a few hours, days, months, or years. Probably not relevant to the PCs unless they or the phoenix bear a special grudge. But who are we kidding? This is a solar phoenix. It has its own agenda, and the PCs just got onto the agenda, one way or another.</p>"
       }
     ],
     "specials": []
@@ -29571,7 +29571,7 @@
       },
       {
         "name": "Illusionary soiree",
-        "description": "<p>Each round roll a /r d6 (or a /r d4 if the fight is at a party or a luxurious lair), if it is equal to or less than the escalation die it has the following effect.</p>\n<p><strong>1</strong>: Sparkling lights&mdash;Ranged attacks against the Purple Dragon or their allies have a -2 penalty.</p>\n<p><strong>2-3</strong>: Kaleidoscopic kinescope&mdash;Any attacks against the Purple Dragon this round that are natural 1s are rerolled against the nearest ally of the attacker (or against the attacker themselves if there is no other possible target).</p>\n<p><strong>4+</strong>: Illusionary terrain&mdash;Any of the Purple Dragon&rsquo;s enemies that move this round must roll a save, on a failure they end up in a place they did not intend.</p>"
+        "description": "<p>Each round roll a d6 (or a d4 if the fight is at a party or a luxurious lair), if it is equal to or less than the escalation die it has the following effect.</p>\n<p><strong>1</strong>: Sparkling lights&mdash;Ranged attacks against the Purple Dragon or their allies have a -2 penalty.</p>\n<p><strong>2-3</strong>: Kaleidoscopic kinescope&mdash;Any attacks against the Purple Dragon this round that are natural 1s are rerolled against the nearest ally of the attacker (or against the attacker themselves if there is no other possible target).</p>\n<p><strong>4+</strong>: Illusionary terrain&mdash;Any of the Purple Dragon&rsquo;s enemies that move this round must roll a save, on a failure they end up in a place they did not intend.</p>"
       }
     ],
     "specials": []
@@ -29670,7 +29670,7 @@
       },
       {
         "name": "Illusionary soiree",
-        "description": "<p>Each round roll a /r d6 (or a /r d4 if the fight is at a party or a luxurious lair), if it is equal to or less than the escalation die it has the following effect.</p>\n<p><strong>1</strong>: Sparkling lights&mdash;Ranged attacks against the Purple Dragon or their allies have a -2 penalty.</p>\n<p><strong>2-3</strong>: Kaleidoscopic kinescope&mdash;Any attacks against the Purple Dragon this round that are natural 1s are rerolled against the nearest ally of the attacker (or against the attacker themselves if there is no other possible target).</p>\n<p><strong>4+</strong>: Illusionary terrain&mdash;Any of the Purple Dragon&rsquo;s enemies that move this round must roll a save, on a failure they end up in a place they did not intend.</p>"
+        "description": "<p>Each round roll a d6 (or a d4 if the fight is at a party or a luxurious lair), if it is equal to or less than the escalation die it has the following effect.</p>\n<p><strong>1</strong>: Sparkling lights&mdash;Ranged attacks against the Purple Dragon or their allies have a -2 penalty.</p>\n<p><strong>2-3</strong>: Kaleidoscopic kinescope&mdash;Any attacks against the Purple Dragon this round that are natural 1s are rerolled against the nearest ally of the attacker (or against the attacker themselves if there is no other possible target).</p>\n<p><strong>4+</strong>: Illusionary terrain&mdash;Any of the Purple Dragon&rsquo;s enemies that move this round must roll a save, on a failure they end up in a place they did not intend.</p>"
       }
     ],
     "specials": []
@@ -29773,7 +29773,7 @@
       },
       {
         "name": "Illusionary soiree",
-        "description": "<p>Each round roll a /r d6 (or a /r d4 if the fight is at a party or a luxurious lair), if it is equal to or less than the escalation die it has the following effect.</p>\n<p><strong>1</strong>: Sparkling lights&mdash;Ranged attacks against the Purple Dragon or their allies have a -2 penalty.</p>\n<p><strong>2-3</strong>: Kaleidoscopic kinescope&mdash;Any attacks against the Purple Dragon this round that are natural 1s are rerolled against the nearest ally of the attacker (or against the attacker themselves if there is no other possible target).</p>\n<p><strong>4+</strong>: Illusionary terrain&mdash;Any of the Purple Dragon&rsquo;s enemies that move this round must roll a save, on a failure they end up in a place they did not intend.</p>"
+        "description": "<p>Each round roll a d6 (or a d4 if the fight is at a party or a luxurious lair), if it is equal to or less than the escalation die it has the following effect.</p>\n<p><strong>1</strong>: Sparkling lights&mdash;Ranged attacks against the Purple Dragon or their allies have a -2 penalty.</p>\n<p><strong>2-3</strong>: Kaleidoscopic kinescope&mdash;Any attacks against the Purple Dragon this round that are natural 1s are rerolled against the nearest ally of the attacker (or against the attacker themselves if there is no other possible target).</p>\n<p><strong>4+</strong>: Illusionary terrain&mdash;Any of the Purple Dragon&rsquo;s enemies that move this round must roll a save, on a failure they end up in a place they did not intend.</p>"
       },
       {
         "name": "Not dead yet",
@@ -30914,7 +30914,7 @@
       },
       {
         "name": "Reborn in void",
-        "description": "<p>Whenever the phoenix drops to 0 hit points, roll a /r d20 and add the escalation die. For each time this void phoenix has rolled its reborn in void ability earlier this battle, subtract 10 from the roll. For example, a void phoenix making its second reborn in void roll (because its first roll ended up being 20+!) when the escalation die is 6 would roll the d20 and subtract 4.</p>\n<p><strong>20+</strong>: The void phoenix is immediately reborn, healing to 120 hit points above staggered and keeps fighting!</p>\n<p><strong>15&ndash;19</strong>: The void phoenix is reborn in a blast of cold and fire and negative energy, but vaults into the overworld, removed from the battle. On the other hand, it&rsquo;s not done with the PCs! Add the phoenix to an upcoming battle by surprise, adding it as an additional monster not accounted for by the usual encounter- building calculations. Add a level if you feel like it, because it&rsquo;s angry.</p>\n<p><strong>8&ndash;14</strong>: The void phoenix is reborn in a blast of negative energy but wants nothing more to do with this battle. It makes a&nbsp;<em>void rebirth</em> attack, but when the attack is over it shoots off into the overworld so quickly that it&rsquo;s a teleport effect, and does not return to the battle, nor to the adventure.</p>\n<p><strong>7 or less</strong>: The phoenix flares back to life somewhere nearby in a few hours, days, months, or years. Probably not relevant to the PCs unless they or the phoenix bear a special grudge.</p>"
+        "description": "<p>Whenever the phoenix drops to 0 hit points, roll a d20 and add the escalation die. For each time this void phoenix has rolled its reborn in void ability earlier this battle, subtract 10 from the roll. For example, a void phoenix making its second reborn in void roll (because its first roll ended up being 20+!) when the escalation die is 6 would roll the d20 and subtract 4.</p>\n<p><strong>20+</strong>: The void phoenix is immediately reborn, healing to 120 hit points above staggered and keeps fighting!</p>\n<p><strong>15&ndash;19</strong>: The void phoenix is reborn in a blast of cold and fire and negative energy, but vaults into the overworld, removed from the battle. On the other hand, it&rsquo;s not done with the PCs! Add the phoenix to an upcoming battle by surprise, adding it as an additional monster not accounted for by the usual encounter- building calculations. Add a level if you feel like it, because it&rsquo;s angry.</p>\n<p><strong>8&ndash;14</strong>: The void phoenix is reborn in a blast of negative energy but wants nothing more to do with this battle. It makes a&nbsp;<em>void rebirth</em> attack, but when the attack is over it shoots off into the overworld so quickly that it&rsquo;s a teleport effect, and does not return to the battle, nor to the adventure.</p>\n<p><strong>7 or less</strong>: The phoenix flares back to life somewhere nearby in a few hours, days, months, or years. Probably not relevant to the PCs unless they or the phoenix bear a special grudge.</p>"
       }
     ],
     "specials": []
@@ -31843,11 +31843,11 @@
       },
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },
@@ -31901,11 +31901,11 @@
     "specials": [
       {
         "name": "Limited flight",
-        "description": "<p>At the start of each turn, roll a /r d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
+        "description": "<p>At the start of each turn, roll a d6. If the result is less than or equal to the escalation die, the dragonic gains flight as a move action during its turns thanks to a pair of wings it unfurls from its back. The flight tends to be more power-flapping or gliding from one place to another rather than hovering. Flamewings who also have limited flight prefer to use their burning wings to fly in combat wherever possible, resorting to their physical wings only if needed.</p>"
       },
       {
         "name": "Blood of the wyrm",
-        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a /r d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
+        "description": "<p>This dragonic displays traits of its forebears, the mighty wyrms. Roll a d10 and consult the random dragon ability table, or choose one of the first ten options that looks likely to shape the story or battle.</p>"
       }
     ]
   },

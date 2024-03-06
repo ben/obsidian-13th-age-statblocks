@@ -5,7 +5,7 @@ const debug = require('debug')('import')
 
 function stripFoundryMarkup (input?: string): string {
 	return (input ?? '')
-		.replace(/\[\[(d20)?/g, '') // Remove [[d20 and [[
+		.replace(/\[\[(d20)?(\/r(oll)?\s+)?/g, '') // Remove [[ and [[d20 and [[/r and [[/roll
 		.replace(/\]\]/g, '') // Remove ]]
 		.replace(/\+\s*(\d+)/g, '+$1') // convert "+ 1" to "+1"
 		.replace(/\*(\w+)\*/g, '$1') // convert *word* to word
