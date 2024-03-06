@@ -15,7 +15,7 @@ esbuild.build({
 	banner: {
 		js: banner,
 	},
-	entryPoints: ['main.ts', 'import-from-archmage.ts', 'import-from-archmage-db.ts'],
+	entryPoints: ['main.ts', 'import-from-archmage.ts', 'import-from-archmage-db.ts', 'import-from-archmage-yaml.ts'],
 	bundle: true,
 	external: ['obsidian', 'electron', ...builtins],
 	format: 'cjs',
