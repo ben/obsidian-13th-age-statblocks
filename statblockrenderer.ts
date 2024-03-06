@@ -104,8 +104,9 @@ export class StatblockRenderer extends MarkdownRenderChild {
 
 	renderSimpleItem(trait: any) {
 		const traitEl = this.statblockEl.createDiv();
-		traitEl.createSpan({ cls: "em", text: `${trait.name}: ` });
-		traitEl.createSpan({ text: trait.description });
+		traitEl.createEl('h5', { cls: "em", text: `${trait.name}: ` });
+		const descriptionEl = traitEl.createDiv();
+		descriptionEl.innerHTML = trait.description;
 	}
 }
 
